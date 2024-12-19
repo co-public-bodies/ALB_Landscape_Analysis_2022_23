@@ -242,7 +242,7 @@
     "href": "about.html#updates",
     "title": "About",
     "section": "Updates",
-    "text": "Updates\nSince publication, this document has had 1 updates, the details of which are below:"
+    "text": "Updates\nSince publication, this publication has had 2 updates, the details of which are below:"
   },
   {
     "objectID": "Staff.html#scope-of-influence",
@@ -788,7 +788,7 @@
     "href": "Spending.html#how-much-do-albs-spend",
     "title": "ALB Spending",
     "section": "How much do ALBs spend?",
-    "text": "How much do ALBs spend?\nALBs spent £343.55billion in 2022/23. Most of this by far was spent as RDEL programme at £263.74billion, which was 76.77% of all expenditure. Out of total expenditure, 68.68% was not used by the ALB directly but rather, the money was passed on to other organisations and individuals as grants.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+    "text": "How much do ALBs spend?\nCollectively, ALBs spent £343.5 billion in 2022/23. The largest type of spending by ALBs was RDEL Programme spending, which covers ALB running costs, at £263.7billion, representing 76.8% of all ALB expenditure. However, ALB running costs can also include money that is disbursed by the ALB to fund the operations of other organisations as grants-in-aid. In fact grants-in-aid spending represented 68.7% of all ALB expenditure, reflecting the roles of NHS England and Education and Skills Funding Agency, who distribute funding to hospitals and schools. respectively. For additional context, the total expenditure for the UK Government in 2022/23 was £1,133.6 billion, meaning ALBs represent around a third of all public expenditure.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
     "objectID": "Spending.html#spending-by-classification",
@@ -1209,5 +1209,12 @@
     "title": "ALB Purposes",
     "section": "ALB budgets by purpose",
     "text": "ALB budgets by purpose\nWhen viewed by primary purpose, the majority of all budgeted funding allocated to ALBs (67%) was attributable to grant and subsidy issuing bodies, who received £236.84 billion. This largely reflects the budgets of NHS England and Education and Skills Funding Agency. Most of the remaining budgeted funding allocated to ALBs went to major programmes and delivery organisations, who received £108.41 billion (30.7%), whilst £8.04 billion (2.3%) went to ALBs with other purpose types.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "about.html#revisions",
+    "href": "about.html#revisions",
+    "title": "About",
+    "section": "Revisions",
+    "text": "Revisions\nSince publication, this document has had 2 changes for revisions within the data, the details of which are below:"
   }
 ]
