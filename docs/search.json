@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "ALB Classifications.html#ndpbs",
-    "href": "ALB Classifications.html#ndpbs",
-    "title": "ALB Classifications",
-    "section": "NDPBs",
-    "text": "NDPBs"
-  },
-  {
-    "objectID": "ALB Classifications.html#nmds",
-    "href": "ALB Classifications.html#nmds",
-    "title": "ALB Classifications",
-    "section": "NMDs",
-    "text": "NMDs"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,39 +7,39 @@
     "text": "You can explore the data used for this analysis by visiting our ALB Data Explorer tool, which provides more granular insights into each ALB. This tool will let you build your own charts and tables with our data, so you can make comparisons between different ALBs.\n\nThe entire dataset for this analysis covering 2022/23 can also be downloaded by using the button below.\n\n\n\n Download 2022/23 ALBs Data\n\n\n\n\n\nDatasets covering previous financial years from 2019/20 back to 2012/13 can also be found here: Public Bodies Publications. The Public Bodies Directory is a publication which has evolved over a number of years, and there have been numerous changes in the scope and definitions of variables collected for these historic publications. As such, care should be taken when making comparisons with data covering previous financial years.\n\n\n\n\n\nALBs are classified, among other factors, on their level of independence from their sponsoring department, as outlined in the ALB sponsorship code of good practice. Executive agencies are typically more closely aligned with their department who often define the policies that they must follow, however the EA can decide the operational details of how to implement those policies. Departments can’t set the policies of NDPBs and NMDs but can set the strategic framework which outlines their overarching goals. Non-ministerial departments are usually considered the most independent as they typically have their own direct relationship with HM Treasury for negotiating their budgets.\nNDPBs are further classified based on their function. Advisory NDPBs perform only advisory functions whereas Executive NDPBs typically deliver frontline services to the wider public. These subclassifications can inform the way that NDPBs operate. For example, Advisory NDPBs typically operate without a dedicated workforce, and their activities are typically funded directly from within their sponsoring department’s budget. In contrast Executive NDPBs typically have their own dedicated workforce, and have budgets allocated to them by their sponsoring department and HM Treasury.\nThe Public Bodies Handbook provides a much more detailed breakdown of classifications of public bodies and ALBs sponsored by the UK government.\n\n\n\n\n\nFeatures of ALB classifications\n\n\n\n\n\n\n\n Source: HM Treasury managing public money\n\n\n\n\n\n\n\n\n\n\n\n Download Data\nThis website was built in"
   },
   {
-    "objectID": "Departments.html#ndpbs",
-    "href": "Departments.html#ndpbs",
-    "title": "ALBs By Department",
-    "section": "NDPBs",
-    "text": "NDPBs"
-  },
-  {
-    "objectID": "Departments.html#nmds",
-    "href": "Departments.html#nmds",
-    "title": "ALBs By Department",
-    "section": "NMDs",
-    "text": "NMDs"
-  },
-  {
-    "objectID": "Spending.html",
-    "href": "Spending.html",
-    "title": "ALB Spending",
+    "objectID": "about.html#resources-data-on-albs",
+    "href": "about.html#resources-data-on-albs",
+    "title": "About",
     "section": "",
-    "text": "In 2022/23 ALBs spent\n£343.55 Bn\n\n\n\n\n\n\n\n\n\n\n\n\n\nRDEL (running costs)\n£270.63 Bn (78.8%)\n\n\n\n\n\n\n\n\n\n\n\n\nAME (demand-led spending)\n£36.27 Bn (10.6%)\n\n\n\n\n\n\n\n\n\n\n\n\nCDEL (investment costs)\n£36.64 Bn (10.7%)\nThis website was built in"
+    "text": "You can explore the data used for this analysis by visiting our ALB Data Explorer tool, which provides more granular insights into each ALB. This tool will let you build your own charts and tables with our data, so you can make comparisons between different ALBs.\n\nThe entire dataset for this analysis covering 2022/23 can also be downloaded by using the button below.\n\n\n\n Download 2022/23 ALBs Data\n\n\n\n\n\nDatasets covering previous financial years from 2019/20 back to 2012/13 can also be found here: Public Bodies Publications. The Public Bodies Directory is a publication which has evolved over a number of years, and there have been numerous changes in the scope and definitions of variables collected for these historic publications. As such, care should be taken when making comparisons with data covering previous financial years."
   },
   {
-    "objectID": "Classifications.html#ndpbs",
-    "href": "Classifications.html#ndpbs",
-    "title": "ALBs by Classification",
-    "section": "NDPBs",
-    "text": "NDPBs"
+    "objectID": "about.html#resources-about-alb-classifications",
+    "href": "about.html#resources-about-alb-classifications",
+    "title": "About",
+    "section": "",
+    "text": "ALBs are classified, among other factors, on their level of independence from their sponsoring department, as outlined in the ALB sponsorship code of good practice. Executive agencies are typically more closely aligned with their department who often define the policies that they must follow, however the EA can decide the operational details of how to implement those policies. Departments can’t set the policies of NDPBs and NMDs but can set the strategic framework which outlines their overarching goals. Non-ministerial departments are usually considered the most independent as they typically have their own direct relationship with HM Treasury for negotiating their budgets.\nNDPBs are further classified based on their function. Advisory NDPBs perform only advisory functions whereas Executive NDPBs typically deliver frontline services to the wider public. These subclassifications can inform the way that NDPBs operate. For example, Advisory NDPBs typically operate without a dedicated workforce, and their activities are typically funded directly from within their sponsoring department’s budget. In contrast Executive NDPBs typically have their own dedicated workforce, and have budgets allocated to them by their sponsoring department and HM Treasury.\nThe Public Bodies Handbook provides a much more detailed breakdown of classifications of public bodies and ALBs sponsored by the UK government.\n\n\n\n\n\nFeatures of ALB classifications\n\n\n\n\n\n\n\n Source: HM Treasury managing public money\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
-    "objectID": "Classifications.html#nmds",
-    "href": "Classifications.html#nmds",
-    "title": "ALBs by Classification",
-    "section": "NMDs",
-    "text": "NMDs"
+    "objectID": "about.html#revisions",
+    "href": "about.html#revisions",
+    "title": "About",
+    "section": "Revisions",
+    "text": "Revisions\nSince publication, this document has had 2 changes for revisions within the data, the details of which are below:"
+  },
+  {
+    "objectID": "about.html#updates",
+    "href": "about.html#updates",
+    "title": "About",
+    "section": "Updates",
+    "text": "Updates\nSince publication, this publication has had 3 updates, the details of which are below:"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPublic Bodies: What Is a Public Body?↩︎\nSetting Up A New Arms’ Length Body: Guidance for Departments↩︎\nGovernment Analysis Function: Government Statistical Service Harmonised Definitions 2019↩︎\nHow to understand public sector spending: TME↩︎\nHow to understand public sector spending: RDEL↩︎\nHow to understand public sector spending: RDEL↩︎\nHow to understand public sector spending: AME↩︎"
   },
   {
     "objectID": "Budgets.html",
@@ -63,11 +49,116 @@
     "text": "In 2022/23 ALBs were allocated\n£353.3 Bn\nfrom the UK Government\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment funding increased from\n£271.91 Bn in 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nNHS England received \n£159.26 Bn\n\nin Government funding during\n2022/23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALBs generated\n£9.45 Bn\nfrom levies and fees as a source of other income\nThis website was built in"
   },
   {
+    "objectID": "Budgets.html#alb-budgets-headlines",
+    "href": "Budgets.html#alb-budgets-headlines",
+    "title": "ALB Budgets",
+    "section": "",
+    "text": "In 2022/23 ALBs were allocated\n£353.3 Bn\nfrom the UK Government\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment funding increased from\n£271.91 Bn in 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nNHS England received \n£159.26 Bn\n\nin Government funding during\n2022/23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALBs generated\n£9.45 Bn\nfrom levies and fees as a source of other income"
+  },
+  {
+    "objectID": "Budgets.html#alb-funding",
+    "href": "Budgets.html#alb-funding",
+    "title": "ALB Budgets",
+    "section": "ALB funding",
+    "text": "ALB funding\nIn most cases, HM Treasury funds ALBs by allocating money to ministerial departments who then delegated it to their ALBs; the department that funds an ALB is known as its sponsoring department. Non-ministerial departments are an exception to this as they often receive money directly from HMT1, and may often act as their own sponsor, or even sponsor other ALBs. These delegated budgets are typically set years in advance, and as such may be subject to change. Due to this, the ALB budgets reported below may not directly match up with the values reported in ALB Spending, which captures actual spending outturn for 2022/23."
+  },
+  {
+    "objectID": "Budgets.html#government-funding-for-albs-by-departments",
+    "href": "Budgets.html#government-funding-for-albs-by-departments",
+    "title": "ALB Budgets",
+    "section": "Government funding for ALBs by departments",
+    "text": "Government funding for ALBs by departments\nThe departments which were allocated the most funding for their ALBs from HM Treasury in 2022/23 were Department of Health and Social Care, Department for Education, HM Revenue and Customs, Department for Transport and Department for Science, Innovation and Technology. Together, they were allocated £322 billion for their ALBs, which was around 91% of all Government funding for ALBs.\nALBs sponsored by Department of Health and Social Care were budgeted £163.21 billion, largely driven by the £159.26 billion allocated to NHS England.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Budgets.html#albs-which-receive-the-most-government-funding",
+    "href": "Budgets.html#albs-which-receive-the-most-government-funding",
+    "title": "ALB Budgets",
+    "section": "ALBs which receive the most government funding",
+    "text": "ALBs which receive the most government funding\nIn 2022/23, total government funding allocated to ALBs was £353.3 billion. The vast majority of this funding went to 3 bodies: NHS England (£159 billion); Education and Skills Funding Agency (£67 billion); HM Revenue and Customs (£45 billion). These bodies deliver key outputs and services on behalf of the UK Government, which is reflected in their large budgets. Collectively, the 10 largest ALBs in terms of Government funding received more than 90% of all government funding for ALBs. More detail on these ALBs can be found in the Largest ALBs section.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Budgets.html#albs-which-generate-the-most-income-through-levies-and-fees",
+    "href": "Budgets.html#albs-which-generate-the-most-income-through-levies-and-fees",
+    "title": "ALB Budgets",
+    "section": "ALBs which generate the most income through levies and fees",
+    "text": "ALBs which generate the most income through levies and fees\nIn 2022/23 the total budgetted income for ALBs was £362.75 billion. While the majority of funding for ALBs comes directly from the UK Government, some ALBs also generate their own income through levies and fees. All together, ALBs budgeted £9.45 Bn in income generated from levies and fees as a source of other income, representing 2.6% of all income for ALBs. The ALBs who generated the most income from levies and fees were Homes England (£1.08 billion) and Nuclear Decommissioning Authority (£1.06 billion).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Budgets.html#government-funding-by-classification-type",
+    "href": "Budgets.html#government-funding-by-classification-type",
+    "title": "ALB Budgets",
+    "section": "Government funding by classification type",
+    "text": "Government funding by classification type\nMost of the government funding that was allocated to ALBs by the UK Government in 2022/23 went to NDPBs, which received 62% of the total budget for ALBs. Executive Agencies and Non-Ministerial Departments received less money at 25% and 14% of the total, respectively. The bulk of all direct Government funding for NDPBs (£217.66 billion) was made up by funding for NHS England (£159.26 billion), representing 73% of the total funding for NDPBs.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Budgets.html#albs-that-receive-no-direct-government-funding",
+    "href": "Budgets.html#albs-that-receive-no-direct-government-funding",
+    "title": "ALB Budgets",
+    "section": "ALBs that receive no direct government funding",
+    "text": "ALBs that receive no direct government funding\nFrom a total of 305 ALBs in 2022/23, around 110 bodies (36%) received no direct funding from the UK Government. Many of these bodies are Advisory and Tribunal NDPBs which operate using shared resources from their sponsoring department, such as the Traffic Commissioners for Great Britain (Department for Transport) and the Police Discipline Appeals Tribunal (Home Office).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Budgets.html#budget_comparisons_2020",
+    "href": "Budgets.html#budget_comparisons_2020",
+    "title": "ALB Budgets",
+    "section": "Comparisons with 2020",
+    "text": "Comparisons with 2020\nIn the 2019/20 Public Bodies Directory, the amount of Government funding allocated for ALBs was £271.91 billion. In 2022/23 this had risen to £353.3 billion, representing an increase of around 29.9% (£81.4 billion). While some of this increase is attributable to inflation during this period, it is also linked to the addition of Network Rail as an ALB, who received £19.24 billion in 2022/23. The largest increase in funding went to NHS England, who saw an increase of around £36.46 billion during this time period. However, this increase also reflects NHS England’s merging with Health Education England and NHS Digital, and the dissolution of Public Health England.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Budgets.html#footnotes",
+    "href": "Budgets.html#footnotes",
+    "title": "ALB Budgets",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNMDs also have sponsoring departments, which support their services and hold them to account for their actions. In fact, all sponsoring departments do more for ALBs than just give them money, however the exact relationship is different for every ALB.↩︎"
+  },
+  {
     "objectID": "Departments.html",
     "href": "Departments.html",
     "title": "ALB Sponsorship",
     "section": "",
     "text": "ALBs were sponsored by\n22\nministerial and non-ministerial departments\n\n\n\n\n\n\n\n\n\n\n\n\nMinistry of Justice\n67\nsponsored the most ALBs\n\n\n\n\n\n\n\n\n\n\n\n\nDepartment of Health and Social Care\n£163.2 Bn\nallocated the most Government funding to ALBs\n\n\n\n\n\n\n\n\n\n\n\n\nMinistry of Justice\n82,493 FTE\nalso sponsored the largest ALB workforce\nThis website was built in"
+  },
+  {
+    "objectID": "Departments.html#alb-sponsorship-headlines",
+    "href": "Departments.html#alb-sponsorship-headlines",
+    "title": "ALB Sponsorship",
+    "section": "",
+    "text": "ALBs were sponsored by\n22\nministerial and non-ministerial departments\n\n\n\n\n\n\n\n\n\n\n\n\nMinistry of Justice\n67\nsponsored the most ALBs\n\n\n\n\n\n\n\n\n\n\n\n\nDepartment of Health and Social Care\n£163.2 Bn\nallocated the most Government funding to ALBs\n\n\n\n\n\n\n\n\n\n\n\n\nMinistry of Justice\n82,493 FTE\nalso sponsored the largest ALB workforce"
+  },
+  {
+    "objectID": "Departments.html#alb-sponsorship-by-department",
+    "href": "Departments.html#alb-sponsorship-by-department",
+    "title": "ALB Sponsorship",
+    "section": "ALB sponsorship by department",
+    "text": "ALB sponsorship by department\nThe 305 ALBs in 2022/23 were sponsored by 19 ministerial departments within the UK Government. Some ALBs, such as Non-Ministerial Departments operate with greater degree of independence from their sponsoring ministerial department, and may have their own relationship with HM Treasury when negotiating their budgets. Some Non-Ministerial Departments, such as HM Revenue and Customs, Food Standards Agency and the Forestry Commission, also sponsor other ALBs, and have direct sponsorship oversight for these ALBs.\nThe three departments who sponsored the most Arms Length Bodies were: Ministry of Justice (67), Department for Culture, Media and Sport (36), Department for Environment, Food and Rural Affairs (19). Whilst Ministry of Justice sponsors the the largest number of ALBs, its important to note that the majority of these (44) are Advisory Committees on Justices of the Peace, which have no dedicated budget, spending or staff. These ALBs operate in an advisory capacity and any resources they do use are typically consolidated within the wider Ministry of Justice budget.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Departments.html#alb-fte-by-sponsoring-department-comparisons-with-2020",
+    "href": "Departments.html#alb-fte-by-sponsoring-department-comparisons-with-2020",
+    "title": "ALB Sponsorship",
+    "section": "ALB FTE by sponsoring department: Comparisons with 2020",
+    "text": "ALB FTE by sponsoring department: Comparisons with 2020\nWhile the overall number of staff employed by ALBs has increased from 318,714 in 2019/20 to 390,845 in 2022/23, most of this increase can be attributed to ALBs sponsored by a small number of departments. The ALB workforce sponsored by the Department for Transport increased by 48,577 during this period, mostly driven by the 41,147 staff employed by Network Rail. The workforce of ALBs sponsored by Ministry of Justice also increased by 13,256 during this time period.\nMachinery of Government changes in 2022/23 also saw the Department for Business, Energy and Industrial Strategy split apart into Department for Business and Trade, Department for Energy Security and Net Zero, and Department for Science Innovation, and Technology. With this change, most of the ALBs sponsored by BEIS were split between these departments, whilst sponsorship of HM Land Registry was moved to Ministry of Housing, Communities and Local Government.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Departments.html#alb-budgets-by-sponsoring-department-comparisons-with-2020",
+    "href": "Departments.html#alb-budgets-by-sponsoring-department-comparisons-with-2020",
+    "title": "ALB Sponsorship",
+    "section": "ALB budgets by sponsoring department: Comparisons with 2020",
+    "text": "ALB budgets by sponsoring department: Comparisons with 2020\nMuch like the size of the ALB workforce, Government funding for ALBs has also increased from £271.9 Bn in 2019/20 to £353.3 Bn 2022/23. The 3 sponsoring departments with the largest increases in ALB funding were: Department of Health and Social Care (from £131.8 Bn to £163.2 Bn), Department for Transport (from £3.5 Bn to £33.1 Bn), and Department for Education (from £60.7 Bn to £69.6 Bn). The large increase for Department of Health and Social Care is attributable to increases in funding for NHS England.\nIt is important to note that while sponsorship of Network Rail has increased the amount of Government funding for ALBs sponsored by Department for Transport between 2019/20 and 2022/23, Network Rail itself was reclassified as a Central Government Body in September 2014, and it was only in 2022 that it formally became classified as an Arm’s Length Body.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Departments.html#dept_summary_section",
+    "href": "Departments.html#dept_summary_section",
+    "title": "ALB Sponsorship",
+    "section": "Summaries of income for each ALB by sponsoring department",
+    "text": "Summaries of income for each ALB by sponsoring department\nThe way that ALBs receive money can vary depending on their purpose and operational remit. Some ALBs are funded only by direct government funding, some ALBs are funded by levies and fees to their service users, and other ALBs are funded by a mix of government funding and levies. Below is a breakdown of the income for each ALB sponsored by each ministerial and non-ministerial department."
+  },
+  {
+    "objectID": "Departments.html#attorney-generals-office",
+    "href": "Departments.html#attorney-generals-office",
+    "title": "ALB Sponsorship",
+    "section": "Attorney Generals Office",
+    "text": "Attorney Generals Office\nStats for Attorney Generals Office:\n\nOrganisations in Scope: 3\nTotal Staff in 2022/23: 9,973.3\nTotal RDEL Expenditure in 2022/23: £771,167,042\nTotal CDEL Expenditure in 2022/23: £29,254,897\nTotal Government Funding in 2022/23: £866,508,000\n\n\nAttorney Generals Office 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Attorney Generals Office Data"
   },
   {
     "objectID": "Departments.html#cabinet-office",
@@ -147,11 +238,32 @@
     "text": "Department of Health and Social Care\nStats for Department of Health and Social Care:\n\nOrganisations in Scope: 16\nTotal Staff in 2022/23: 25,456.4\nTotal RDEL Expenditure in 2022/23: £160,702,955,989\nTotal CDEL Expenditure in 2022/23: £7,420,340\nTotal Government Funding in 2022/23: £163,211,510,425\n\n\nDepartment of Health and Social Care 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Department of Health and Social Care Data"
   },
   {
+    "objectID": "Departments.html#food-standards-agency",
+    "href": "Departments.html#food-standards-agency",
+    "title": "ALB Sponsorship",
+    "section": "Food Standards Agency",
+    "text": "Food Standards Agency\nStats for Food Standards Agency:\n\nOrganisations in Scope: 7\nTotal Staff in 2022/23: 1,332\nTotal RDEL Expenditure in 2022/23: £135,616,088\nTotal CDEL Expenditure in 2022/23: £9,549,000\nTotal Government Funding in 2022/23: £147,640,000\n\n\nFood Standards Agency 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Food Standards Agency Data"
+  },
+  {
     "objectID": "Departments.html#foreign-commonwealth-and-development-office",
     "href": "Departments.html#foreign-commonwealth-and-development-office",
     "title": "ALB Sponsorship",
     "section": "Foreign, Commonwealth and Development Office",
     "text": "Foreign, Commonwealth and Development Office\nStats for Foreign, Commonwealth and Development Office:\n\nOrganisations in Scope: 7\nTotal Staff in 2022/23: 9,450.7\nTotal RDEL Expenditure in 2022/23: £938,478,548\nTotal CDEL Expenditure in 2022/23: £83,883,767\nTotal Government Funding in 2022/23: £215,149,406\n\n\nForeign, Commonwealth and Development Office 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Foreign, Commonwealth and Development Office Data"
+  },
+  {
+    "objectID": "Departments.html#forestry-commission",
+    "href": "Departments.html#forestry-commission",
+    "title": "ALB Sponsorship",
+    "section": "Forestry Commission",
+    "text": "Forestry Commission\nStats for Forestry Commission:\n\nOrganisations in Scope: 11\nTotal Staff in 2022/23: 1,068\nTotal RDEL Expenditure in 2022/23: £73,320,000\nTotal CDEL Expenditure in 2022/23: £49,992,000\nTotal Government Funding in 2022/23: £121,718,000\n\n\nForestry Commission 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Forestry Commission Data"
+  },
+  {
+    "objectID": "Departments.html#hm-revenue-and-customs",
+    "href": "Departments.html#hm-revenue-and-customs",
+    "title": "ALB Sponsorship",
+    "section": "HM Revenue and Customs",
+    "text": "HM Revenue and Customs\nStats for HM Revenue and Customs:\n\nOrganisations in Scope: 2\nTotal Staff in 2022/23: 67,519\nTotal RDEL Expenditure in 2022/23: £6,547,189,704\nTotal CDEL Expenditure in 2022/23: £595,978,546\nTotal Government Funding in 2022/23: £45,520,101,926\n\n\nHM Revenue and Customs 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download HM Revenue and Customs Data"
   },
   {
     "objectID": "Departments.html#hm-treasury",
@@ -161,25 +273,11 @@
     "text": "HM Treasury\nStats for HM Treasury:\n\nOrganisations in Scope: 9\nTotal Staff in 2022/23: 1,169.7\nTotal RDEL Expenditure in 2022/23: £280,279,101\nTotal CDEL Expenditure in 2022/23: £16,554,998\nTotal Government Funding in 2022/23: £797,533,000\n\n\nHM Treasury 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download HM Treasury Data"
   },
   {
-    "objectID": "Departments.html#hm-treasury-1",
-    "href": "Departments.html#hm-treasury-1",
-    "title": "ALBs By Department",
-    "section": "HM Treasury",
-    "text": "HM Treasury\nStats for HM Treasury:\n\nOrganisations in Scope: 11\nTotal Staff in 2022/23: 68,688.7\nTotal RDEL Expenditure in 2022/23: £6,788,218,783\nTotal CDEL Expenditure in 2022/23: £612,533,544\nTotal Government Funding in 2022/23: £46,419,263,926\n\n\nHM Treasury 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download HM Treasury Directory Data"
-  },
-  {
     "objectID": "Departments.html#home-office",
     "href": "Departments.html#home-office",
     "title": "ALB Sponsorship",
     "section": "Home Office",
     "text": "Home Office\nStats for Home Office:\n\nOrganisations in Scope: 15\nTotal Staff in 2022/23: 8,056.4\nTotal RDEL Expenditure in 2022/23: £891,045,809\nTotal CDEL Expenditure in 2022/23: £115,600,381\nTotal Government Funding in 2022/23: £772,864,081\n\n\nHome Office 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Home Office Data"
-  },
-  {
-    "objectID": "Departments.html#independent-non-ministerial-departments",
-    "href": "Departments.html#independent-non-ministerial-departments",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Independent Non-Ministerial Departments",
-    "text": "Independent Non-Ministerial Departments\nStats for Independent Non-Ministerial Departments:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 57\nTotal RDEL Expenditure in 2022/23: £13,116,000\nTotal CDEL Expenditure in 2022/23: £608,000\nTotal Government Funding in 2022/23: £9,487,000\n\n\nIndependent Non-Ministerial Departments 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Independent Non-Ministerial Departments Directory Data"
   },
   {
     "objectID": "Departments.html#ministry-of-defence",
@@ -210,55 +308,6 @@
     "text": "Office of the Secretary of State for Scotland\nStats for Office of the Secretary of State for Scotland:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 3.2\nTotal RDEL Expenditure in 2022/23: £284,000\nTotal CDEL Expenditure in 2022/23: £0\nTotal Government Funding in 2022/23: £412,000\n\n\nOffice of the Secretary of State for Scotland 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Office of the Secretary of State for Scotland Data"
   },
   {
-    "objectID": "Budgets.html#non-funded-bodies",
-    "href": "Budgets.html#non-funded-bodies",
-    "title": "ALBs Budgets",
-    "section": "Non-funded bodies",
-    "text": "Non-funded bodies\nFrom a total of 304 ALBs in 2022/23, around 111 bodies (37%) received no direct funding from the UK Government.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html",
-    "href": "Staff.html",
-    "title": "ALB Staff",
-    "section": "",
-    "text": "In 2022/23 ALBs employed\n390,845 Staff (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nThe ALB workforce has increased from\n318,714 in 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHM Revenue and Customs Employed \n63,738 FTE\nand are the largest ALB employer.\n\n\n\n\n\n\n\n\n\n\n\n\nReclassification of Network Rail in 2022 added\n41,147 FTE\nto this total.\nThis website was built in"
-  },
-  {
-    "objectID": "about.html#other-resources-1",
-    "href": "about.html#other-resources-1",
-    "title": "About",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nPrevious publications about Public Bodies can be found here: Public Bodies Publications\nAccess the code for this document on our Github: CO Benchmarking and Reform Analysis Unit"
-  },
-  {
-    "objectID": "about.html#corrections",
-    "href": "about.html#corrections",
-    "title": "About",
-    "section": "Corrections",
-    "text": "Corrections\nSince publication, this document has had 0 changes for corrections, the details of which are below:"
-  },
-  {
-    "objectID": "about.html#updates",
-    "href": "about.html#updates",
-    "title": "About",
-    "section": "Updates",
-    "text": "Updates\nSince publication, this publication has had 3 updates, the details of which are below:"
-  },
-  {
-    "objectID": "Staff.html#scope-of-influence",
-    "href": "Staff.html#scope-of-influence",
-    "title": "ALB Staff",
-    "section": "Scope of Influence",
-    "text": "Scope of Influence\nThe vast majority of ALBs sponsored by UK Government departments have operational scope within England (97%). Most ALBs also operate within Wales (76%), whereas less than half operate within Scotland (48%) and Northern Ireland (45%).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Office for National Statistics licensed under the Open Government Licence v.3.0 Contains OS data © Crown copyright and database right 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#headquarters-locations",
-    "href": "Staff.html#headquarters-locations",
-    "title": "ALB Staff",
-    "section": "Headquarters locations",
-    "text": "Headquarters locations\nThe location of headquarters of ALBs sponsored by the UK Government are spread across the UK. The vast majority of ALBs have their headquarters in London (126), whilst the South West (24) and West Midlands (20) had the second and third most ALB headquarters respectively. The North East (2) and Northern Ireland (3) were the regions with the least amount of ALB headquarters. 74 ALBs (around a quarter of all ALBs) reported that they have no designated headquarters.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Office for National Statistics licensed under the Open Government Licence v.3.0 Contains OS data © Crown copyright and database right 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
     "objectID": "high-profile-albs.html",
     "href": "high-profile-albs.html",
     "title": "High Profile ALBs",
@@ -266,11 +315,25 @@
     "text": "While there were 305 ALBs in 2022/23, the way that ALBs are funded varies considerably across the landscape. The UK Government allocated £353.3 billion to ALBs, yet the 10 largest ALBs within the landscape received the vast majority of this funding, £326.29 billion, representing 92.4% of all Government funding. Accordingly, these bodies also represented the vast majority all ALBs’ Total Managed Expenditure, at £316.64 billion (92.2%). As employers, these bodies also represented around half (%) of the entire ALB workforce, employing 205,209 FTE. Collectively, this represents how the ALB landscape is skewed towards 10 large ALBs, which are profiled below.\nNote: Whilst Network Rail represents 2 bodies within the data, as both Network Rail and Great British Railways, as they share the same resources we have counted them as 1 ALB for the purposes of this analysis.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\nThis website was built in"
   },
   {
-    "objectID": "Spending.html#largest-grant-distributors",
-    "href": "Spending.html#largest-grant-distributors",
-    "title": "ALB Spending",
-    "section": "Largest grant distributors",
-    "text": "Largest grant distributors\nThe total amount of Grants-in-Aid distributed by ALBs was primarily driven by 3 ALBs. These were: NHS England (£155.93 billion) Education and Skills Funding Agency (£67.23 billion), and UK Research and Innovation (£8.07 billion). Collectively these 3 ALBs spent £231.23 billion as grants issued, which was around 98% of all grants-in-aid issued by ALBs.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+    "objectID": "high-profile-albs.html#the-10-largest-albs",
+    "href": "high-profile-albs.html#the-10-largest-albs",
+    "title": "High Profile ALBs",
+    "section": "",
+    "text": "While there were 305 ALBs in 2022/23, the way that ALBs are funded varies considerably across the landscape. The UK Government allocated £353.3 billion to ALBs, yet the 10 largest ALBs within the landscape received the vast majority of this funding, £326.29 billion, representing 92.4% of all Government funding. Accordingly, these bodies also represented the vast majority all ALBs’ Total Managed Expenditure, at £316.64 billion (92.2%). As employers, these bodies also represented around half (%) of the entire ALB workforce, employing 205,209 FTE. Collectively, this represents how the ALB landscape is skewed towards 10 large ALBs, which are profiled below.\nNote: Whilst Network Rail represents 2 bodies within the data, as both Network Rail and Great British Railways, as they share the same resources we have counted them as 1 ALB for the purposes of this analysis.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "high-profile-albs.html#profiles-10-largest-albs",
+    "href": "high-profile-albs.html#profiles-10-largest-albs",
+    "title": "High Profile ALBs",
+    "section": "Profiles: 10 largest ALBs",
+    "text": "Profiles: 10 largest ALBs"
+  },
+  {
+    "objectID": "high-profile-albs.html#nhs-england",
+    "href": "high-profile-albs.html#nhs-england",
+    "title": "High Profile ALBs",
+    "section": "NHS England",
+    "text": "NHS England\nNHS England was established by Parliament in 2012 as an independent statutory body. Its role is to lead the NHS in England to deliver high quality services for all. NHS England shares with the Secretary of State for Health and Social Care the legal duty to promote a comprehensive health service in England, in accordance with the National Health Service Act 2006 (as amended by the Health and Social Care Act 2012 and most recently the Health and Care Act 2022). We set the national direction, allocate resources, ensure accountability, define the national strategy for supporting and developing people, mobilise expert networks, give support to drive improvement, deliver essential services including national procurement and digital services, and lead the national agenda for transformation.\n\n\n\n\n\n\n\n\n\n\nNHS England\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment of Health and Social Care\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAmanda Pritchard\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n14.4 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\nNA%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£159.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£157.9 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£155.9 Bn"
   },
   {
     "objectID": "high-profile-albs.html#education-and-skills-funding-agency",
@@ -287,11 +350,11 @@
     "text": "HM Revenue and Customs\nUK’s tax, payments and customs authority. HMRC collects the money that pays for the UK’s public services and help families and individuals with targeted financial support\n\n\n\n\n\n\n\n\n\n\nHMRC\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nHM Revenue and Customs\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nJim Harra\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n63.7 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n14.4%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£45.2 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£40.8 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£1.7 M"
   },
   {
-    "objectID": "high-profile-albs.html#network-rail-limited",
-    "href": "high-profile-albs.html#network-rail-limited",
+    "objectID": "high-profile-albs.html#network-rail-great-british-railways",
+    "href": "high-profile-albs.html#network-rail-great-british-railways",
     "title": "High Profile ALBs",
-    "section": "Network Rail Limited",
-    "text": "Network Rail Limited\nNetwork Rail Limited’s role is to run a safe, reliable and efficient railway, providing a service for passengers and freight users. NR work closely with Train Operating Companies and Freight Operating Companies.\n\n\n\n\n\n\n\n\n\n\nNetwork Rail & Great British Railways\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Transport\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAndrew Haines (Chief Executive)\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n41.1 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.8%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£19.2 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£17.7 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£0"
+    "section": "Network Rail & Great British Railways",
+    "text": "Network Rail & Great British Railways\nNetwork Rail Limited’s role is to run a safe, reliable and efficient railway, providing a service for passengers and freight users. NR work closely with Train Operating Companies and Freight Operating Companies. While Network Rail and Great British Railways are currently independent, Network Rail are expected to be eventually absorbed into Great British Railways, as laid out in the The Williams-Shapps Plan for Rail.\n\n\n\n\n\n\n\n\n\n\nNetwork Rail & Great British Railways\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Transport\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAndrew Haines (Chief Executive)\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n41.1 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.8%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£19.2 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£17.7 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£0"
   },
   {
     "objectID": "high-profile-albs.html#uk-research-and-innovation",
@@ -322,11 +385,11 @@
     "text": "HM Prison and Probation Service\nHMPPS is responsible for: Managing public sector prisons; Managing the national Probation service; Managing public sector youth custody; Managing electronic monitoring for individuals on court bail, offenders subject to community orders or licence conditions, and, on behalf of the Home Office, subjects on immigration bail.; Liaising with the Welsh government on devolved matters (especially health and education) to ensure the effective delivery of services in Wales; Performance managing private/third sector providers of offender management services; Delivering and managing central system-wide operational support services (such as incident management, prison industries, and improving safety and security practice).\n\n\n\n\n\n\n\n\n\n\n\nHM Prison and Probation Service\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nMinistry of Justice\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAmy Rees\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n62.2 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n12%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£4.7 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£5.5 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£0"
   },
   {
-    "objectID": "high-profile-albs.html#homes-and-communities-agency-homes-england",
-    "href": "high-profile-albs.html#homes-and-communities-agency-homes-england",
+    "objectID": "high-profile-albs.html#homes-england",
+    "href": "high-profile-albs.html#homes-england",
     "title": "High Profile ALBs",
-    "section": "Homes and Communities Agency (Homes England)",
-    "text": "Homes and Communities Agency (Homes England)\nHomes England deliver Government’s housing and regeneration programmes across England, except London where this is devolved to the Mayor. They: deliver land and infrastructure objectives by assembling, marketing and master planning across a land portfolio; provide loan finance to private sector house builders; they commission and grant fund delivery of affordable homes by Registered providers; act as a delivery partner for building remediation; and manage the consumer loand book of the Help to Buy scheme.\n\n\n\n\n\n\n\n\n\n\nHomes England\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Levelling Up, Housing and Communities\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nPeter Denton\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nWest Midlands  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n1.3 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.4%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£4.4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£1.7 Bn"
+    "section": "Homes England",
+    "text": "Homes England\nHomes England deliver Government’s housing and regeneration programmes across England, except London where this is devolved to the Mayor. They: deliver land and infrastructure objectives by assembling, marketing and master planning across a land portfolio; provide loan finance to private sector house builders; they commission and grant fund delivery of affordable homes by Registered providers; act as a delivery partner for building remediation; and manage the consumer loand book of the Help to Buy scheme.\n\n\n\n\n\n\n\n\n\n\nHomes England\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Levelling Up, Housing and Communities\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nPeter Denton\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nWest Midlands  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n1.3 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.4%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£4.4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£1.7 Bn"
   },
   {
     "objectID": "high-profile-albs.html#uk-health-security-agency",
@@ -334,727 +397,6 @@
     "title": "High Profile ALBs",
     "section": "UK Health Security Agency",
     "text": "UK Health Security Agency\nUKHSA is the UK’s permanent standing capacity to prepare for, prevent and respond to public health threats. A critical part of the UK’s national security infrastructure, the Agency maintains essential capabilities to protect the nation’s health and support economic growth.\n\n\n\n\n\n\n\n\n\n\nUK Health Security Agency\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment of Health and Social Care\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nProfessor Dame Jenny Harries\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n5.8 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n18.6%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£3.8 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£2.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£-73.8 M"
-  },
-  {
-    "objectID": "high-profile-albs.html#nuclear-decommissioning-authority",
-    "href": "high-profile-albs.html#nuclear-decommissioning-authority",
-    "title": "High Profile ALBs",
-    "section": "Nuclear Decommissioning Authority",
-    "text": "Nuclear Decommissioning Authority\nResponsible for keeping the UK’s former nuclear sites and facilities safe and secure, while carrying out decommissioning work on them and overcoming the challenges of managing nuclear waste.\n\n\n\n\n\n\n\n\n\n\n\nNuclear Decomm. Authority\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Energy Security and Net Zero\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nDavid Peattie\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nNorth West  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n360 (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n3.1%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£2.78 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£3.8 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£11.78 M"
-  },
-  {
-    "objectID": "Purposes.html",
-    "href": "Purposes.html",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "Advisory bodies\n128\n\n\n\n\n\n\n\n\n\n\n\n\nMajor projects and delivery bodies\n68\n\n\n\n\n\n\n\n\n\n\n\n\nSafety and licensing bodies\n27\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural institutions\n23\n\n\n\n\n\n\n\n\n\n\n\n\nJustice and prosecutorial enforcers\n20\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic or sectoral regulators\n18\n\n\n\n\n\n\n\n\n\n\n\n\nGrant and subsidy issuing bodies\n13\n\n\n\n\n\n\n\n\n\n\n\n\nResearch, innovation and development bodies\n8\nThis website was built in"
-  },
-  {
-    "objectID": "Departments.html#attorney-generals-office",
-    "href": "Departments.html#attorney-generals-office",
-    "title": "ALB Sponsorship",
-    "section": "Attorney Generals Office",
-    "text": "Attorney Generals Office\nStats for Attorney Generals Office:\n\nOrganisations in Scope: 3\nTotal Staff in 2022/23: 9,973.3\nTotal RDEL Expenditure in 2022/23: £771,167,042\nTotal CDEL Expenditure in 2022/23: £29,254,897\nTotal Government Funding in 2022/23: £866,508,000\n\n\nAttorney Generals Office 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Attorney Generals Office Data"
-  },
-  {
-    "objectID": "Departments.html#department-for-education-1",
-    "href": "Departments.html#department-for-education-1",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Department for Education",
-    "text": "Department for Education\nStats for Department for Education:\n\nOrganisations in Scope: 15\nTotal Staff in 2022/23: 8,317.4\nTotal RDEL Expenditure in 2022/23: £69,310,454,098\nTotal CDEL Expenditure in 2022/23: £159,127,510\nTotal Government Funding in 2022/23: £69,632,113,396\n\n\nDepartment for Education 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Department for Education Directory Data"
-  },
-  {
-    "objectID": "Departments.html#department-for-education-2",
-    "href": "Departments.html#department-for-education-2",
-    "title": "ALBs By Department",
-    "section": "Department for Education",
-    "text": "Department for Education\nStats for Department for Education:\n\nOrganisations in Scope: 15\nTotal Staff in 2022/23: 8,314.5\nTotal RDEL Expenditure in 2022/23: £69,310,196,372\nTotal CDEL Expenditure in 2022/23: £159,642,076\nTotal Government Funding in 2022/23: £69,632,053,396\n\n\nDepartment for Education 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Department for Education Directory Data"
-  },
-  {
-    "objectID": "Departments.html#department-for-environment-food-and-rural-affairs-1",
-    "href": "Departments.html#department-for-environment-food-and-rural-affairs-1",
-    "title": "ALBs By Department",
-    "section": "Department for Environment, Food and Rural Affairs",
-    "text": "Department for Environment, Food and Rural Affairs\nStats for Department for Environment, Food and Rural Affairs:\n\nOrganisations in Scope: 30\nTotal Staff in 2022/23: 24,803.2\nTotal RDEL Expenditure in 2022/23: £3,092,955,399\nTotal CDEL Expenditure in 2022/23: £1,078,754,718\nTotal Government Funding in 2022/23: £3,802,392,107\n\n\nDepartment for Environment, Food and Rural Affairs 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Department for Environment, Food and Rural Affairs Directory Data"
-  },
-  {
-    "objectID": "Departments.html#home-office-1",
-    "href": "Departments.html#home-office-1",
-    "title": "ALBs By Department",
-    "section": "Home Office",
-    "text": "Home Office\nStats for Home Office:\n\nOrganisations in Scope: 15\nTotal Staff in 2022/23: 8,056.4\nTotal RDEL Expenditure in 2022/23: £887,589,004\nTotal CDEL Expenditure in 2022/23: £115,871,000\nTotal Government Funding in 2022/23: £770,297,000\n\n\nHome Office 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Home Office Directory Data"
-  },
-  {
-    "objectID": "Purposes.html#heatmaps",
-    "href": "Purposes.html#heatmaps",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "The following plot shows the correlations between administrative classification and primary purpose. Values in the heatmap show the number of ALBs that have that combination of primary purpose and administrative classification\n\n\n\n\n\n\n\n\n\nThe next plot shows the breakdown of the total purpose of Executive NDPBs by department\n\n\n\n\n\n\n\n\n\nThe following plot shows the total purposes of all ALBs across all departments"
-  },
-  {
-    "objectID": "Purposes.html#regulators-by-purpose",
-    "href": "Purposes.html#regulators-by-purpose",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "The following plot shows the number of ALBs with regulatory powers by primary purpose."
-  },
-  {
-    "objectID": "Purposes.html#what-do-the-administrative-classifications-do",
-    "href": "Purposes.html#what-do-the-administrative-classifications-do",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "The plot below shows the correlations between administrative classification and all purposes. Values in the heatmap show the number of times that an ALB both had the purpose as one of their purpose levels and had the administrative classification."
-  },
-  {
-    "objectID": "Purposes.html#what-do-departments-albs-do",
-    "href": "Purposes.html#what-do-departments-albs-do",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "The following plot shows the number of ALBs that perform each purpose within each department. You can double-click a purpose category in the legend to see the number of ALBs that have that purpose in the departments."
-  },
-  {
-    "objectID": "Purposes.html#which-albs-have-regulatory-powers",
-    "href": "Purposes.html#which-albs-have-regulatory-powers",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "The following plot shows the number of ALBs within each primary purpose category that have regulatory powers."
-  },
-  {
-    "objectID": "Purposes.html#what-combination-of-purposes-do-albs-have",
-    "href": "Purposes.html#what-combination-of-purposes-do-albs-have",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "The following plot shows the full structure of the purposes of ALBs. The top layer of the treemap is their primary purpose, the second layer is their secondary purpose and the third is their tertiary one. You can click on a box to see the secondary and tertiary purposes within that category."
-  },
-  {
-    "objectID": "Budgets.html#government-funding-by-classification-type",
-    "href": "Budgets.html#government-funding-by-classification-type",
-    "title": "ALB Budgets",
-    "section": "Government funding by classification type",
-    "text": "Government funding by classification type\nMost of the government funding that was allocated to ALBs by the UK Government in 2022/23 went to NDPBs, which received 62% of the total budget for ALBs. Executive Agencies and Non-Ministerial Departments received less money at 25% and 14% of the total, respectively. The bulk of all direct Government funding for NDPBs (£217.66 billion) was made up by funding for NHS England (£159.26 billion), representing 73% of the total funding for NDPBs.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Budgets.html#exploring-ndpb-funding",
-    "href": "Budgets.html#exploring-ndpb-funding",
-    "title": "ALBs Budgets",
-    "section": "Exploring NDPB Funding",
-    "text": "Exploring NDPB Funding"
-  },
-  {
-    "objectID": "Spending.html#rdel-spending",
-    "href": "Spending.html#rdel-spending",
-    "title": "ALB Spending",
-    "section": "RDEL spending",
-    "text": "RDEL spending\nIn 2022/23 ALBs spent around £270.63 billion on RDEL. RDEL spending represents the day-to-day running costs of an ALB, and typically includes the costs related to an ALB’s staff and their back-office functions which such as HR, Communications, and Finance, which each ALB needs to operate. RDEL is also often used to cover the programme spending of ALBs, which can go towards front-line operations performed by the ALB. For example, while NHS England (£157.63 billion) and Education and Skills Funding Agency (£67.3 billion) collectively spent around 83.1% of all RDEL spending, the vast majority of their spending was RDEL Programme spending, which itself was mostly issued as Grants-in-Aid to towards other organisations to carry out frontline services.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#cdel-spending",
-    "href": "Spending.html#cdel-spending",
-    "title": "ALB Spending",
-    "section": "CDEL spending",
-    "text": "CDEL spending\nIn 2022/23 ALBs spent around £36.64 billion on CDEL. Ten bodies spent 92.53% of total CDEL spending for ALBs, representing £33.91 billion in 2022/23. These ALBs are organisations which are primarily focussed on investment in infrastructure. For example Network Rail (£5.94 billion) and High Speed 2 (£5.94 billion) are ALBs which develop and maintain public transport infrastructure, and collectively represented 35.1% of all ALBs’ CDEL spending.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#ame-spending",
-    "href": "Spending.html#ame-spending",
-    "title": "ALB Spending",
-    "section": "AME spending",
-    "text": "AME spending\nIn 2022/23 ALBs spent around £36.27 billion on Annually Managed Expenditure. Most of this was attributed to HM Revenue and Customs, who spent £33.93 billion as AME, which was 93.55% of all ALBs’ AME spend. HMRC uses AME spending to cover payments for Child Benefits, tax credits and other benefits, reliefs and allowances, which are all susceptible to inflationary pressures. Using AME spending allows HMRC to account for volatile changes in inflation, which may reduce the value of these payments if they were spent under DEL, which is typically allocated years in advance.\nMany ALBs reported a negative value for their AME spending, which is often attributable to movements in provisions. Provisions are liabilities of uncertain timing or amount that need to be accounted for in ALBs’ financial statements.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#department-of-health-and-social-care-1",
-    "href": "Departments.html#department-of-health-and-social-care-1",
-    "title": "ALBs By Department",
-    "section": "Department of Health and Social Care",
-    "text": "Department of Health and Social Care\nStats for Department of Health and Social Care:\n\nOrganisations in Scope: 21\nTotal Staff in 2022/23: 26,788.4\nTotal RDEL Expenditure in 2022/23: £160,838,471,925\nTotal CDEL Expenditure in 2022/23: £16,969,340\nTotal Government Funding in 2022/23: £163,359,076,425\n\n\nDepartment of Health and Social Care 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Department of Health and Social Care Directory Data"
-  },
-  {
-    "objectID": "high-profile-albs.html#nhs-england",
-    "href": "high-profile-albs.html#nhs-england",
-    "title": "High Profile ALBs",
-    "section": "NHS England",
-    "text": "NHS England\nNHS England was established by Parliament in 2012 as an independent statutory body. Its role is to lead the NHS in England to deliver high quality services for all. NHS England shares with the Secretary of State for Health and Social Care the legal duty to promote a comprehensive health service in England, in accordance with the National Health Service Act 2006 (as amended by the Health and Social Care Act 2012 and most recently the Health and Care Act 2022). We set the national direction, allocate resources, ensure accountability, define the national strategy for supporting and developing people, mobilise expert networks, give support to drive improvement, deliver essential services including national procurement and digital services, and lead the national agenda for transformation.\n\n\n\n\n\n\n\n\n\n\nNHS England\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment of Health and Social Care\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAmanda Pritchard\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n14.4 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\nNA%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£159.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£157.9 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£155.9 Bn"
-  },
-  {
-    "objectID": "Budgets.html#government-funding-by-classification-type-to-be-fixed",
-    "href": "Budgets.html#government-funding-by-classification-type-to-be-fixed",
-    "title": "ALBs Budgets",
-    "section": "Government Funding by Classification Type (To be fixed)",
-    "text": "Government Funding by Classification Type (To be fixed)\nMost of the money that was given to ALBs by the government in 2022/23 was for NDPBs, which received 61.59% of HMG’s total budget for ALBs. EAs and NMDs received less money at 24.55% and 13.85% of the total, respectively."
-  },
-  {
-    "objectID": "Budgets.html#exploring-ndpb-funding-to-be-fixed",
-    "href": "Budgets.html#exploring-ndpb-funding-to-be-fixed",
-    "title": "ALBs Budgets",
-    "section": "Exploring NDPB Funding (To be fixed)",
-    "text": "Exploring NDPB Funding (To be fixed)"
-  },
-  {
-    "objectID": "Departments.html#supreme-court-of-the-united-kingdom",
-    "href": "Departments.html#supreme-court-of-the-united-kingdom",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Supreme Court of the United Kingdom",
-    "text": "Supreme Court of the United Kingdom\nStats for Supreme Court of the United Kingdom:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 57\nTotal RDEL Expenditure in 2022/23: £13,116,000\nTotal CDEL Expenditure in 2022/23: £608,000\nTotal Government Funding in 2022/23: £9,487,000\n\n\nSupreme Court of the United Kingdom 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Supreme Court of the United Kingdom Directory Data"
-  },
-  {
-    "objectID": "Budgets.html#exploring-ndpb-government-funding-to-be-fixed",
-    "href": "Budgets.html#exploring-ndpb-government-funding-to-be-fixed",
-    "title": "ALBs Budgets",
-    "section": "Exploring NDPB Government Funding (To be fixed)",
-    "text": "Exploring NDPB Government Funding (To be fixed)\nIn 2022/23, Executive NDPBs received £217.11bn from the government, which was 99.86% of the budget for all NDPBs."
-  },
-  {
-    "objectID": "Budgets.html#footnotes",
-    "href": "Budgets.html#footnotes",
-    "title": "ALB Budgets",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nNMDs also have sponsoring departments, which support their services and hold them to account for their actions. In fact, all sponsoring departments do more for ALBs than just give them money, however the exact relationship is different for every ALB.↩︎"
-  },
-  {
-    "objectID": "Departments.html#charity-commission-for-england-and-wales",
-    "href": "Departments.html#charity-commission-for-england-and-wales",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Charity Commission for England and Wales",
-    "text": "Charity Commission for England and Wales\nStats for Charity Commission for England and Wales:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 476.9\nTotal RDEL Expenditure in 2022/23: £32,089,000\nTotal CDEL Expenditure in 2022/23: £2,676,000\nTotal Government Funding in 2022/23: £32,348,000\n\n\nCharity Commission for England and Wales 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Charity Commission for England and Wales Directory Data"
-  },
-  {
-    "objectID": "Departments.html#competition-and-markets-authority",
-    "href": "Departments.html#competition-and-markets-authority",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Competition and Markets Authority",
-    "text": "Competition and Markets Authority\nStats for Competition and Markets Authority:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 892.2\nTotal RDEL Expenditure in 2022/23: £115,349,000\nTotal CDEL Expenditure in 2022/23: £6,528,000\nTotal Government Funding in 2022/23: £148,313,000\n\n\nCompetition and Markets Authority 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Competition and Markets Authority Directory Data"
-  },
-  {
-    "objectID": "Departments.html#crown-prosecution-service",
-    "href": "Departments.html#crown-prosecution-service",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Crown Prosecution Service",
-    "text": "Crown Prosecution Service\nStats for Crown Prosecution Service:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 7,041\nTotal RDEL Expenditure in 2022/23: £699,965,042\nTotal CDEL Expenditure in 2022/23: £22,517,897\nTotal Government Funding in 2022/23: £762,787,000\n\n\nCrown Prosecution Service 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Crown Prosecution Service Directory Data"
-  },
-  {
-    "objectID": "Departments.html#forestry-commission",
-    "href": "Departments.html#forestry-commission",
-    "title": "ALB Sponsorship",
-    "section": "Forestry Commission",
-    "text": "Forestry Commission\nStats for Forestry Commission:\n\nOrganisations in Scope: 11\nTotal Staff in 2022/23: 1,068\nTotal RDEL Expenditure in 2022/23: £73,320,000\nTotal CDEL Expenditure in 2022/23: £49,992,000\nTotal Government Funding in 2022/23: £121,718,000\n\n\nForestry Commission 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Forestry Commission Data"
-  },
-  {
-    "objectID": "Departments.html#government-actuary-department",
-    "href": "Departments.html#government-actuary-department",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Government Actuary Department",
-    "text": "Government Actuary Department\nStats for Government Actuary Department:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 202.5\nTotal RDEL Expenditure in 2022/23: £-792,365\nTotal CDEL Expenditure in 2022/23: £166,605\nTotal Government Funding in 2022/23: £647,000\n\n\nGovernment Actuary Department 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Government Actuary Department Directory Data"
-  },
-  {
-    "objectID": "Departments.html#government-legal-department",
-    "href": "Departments.html#government-legal-department",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Government Legal Department",
-    "text": "Government Legal Department\nStats for Government Legal Department:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 2,480\nTotal RDEL Expenditure in 2022/23: £-2,293,000\nTotal CDEL Expenditure in 2022/23: £2,985,000\nTotal Government Funding in 2022/23: £15,154,000\n\n\nGovernment Legal Department 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Government Legal Department Directory Data"
-  },
-  {
-    "objectID": "Departments.html#hm-land-registry",
-    "href": "Departments.html#hm-land-registry",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "HM Land Registry",
-    "text": "HM Land Registry\nStats for HM Land Registry:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 6,189\nTotal RDEL Expenditure in 2022/23: £395,140,000\nTotal CDEL Expenditure in 2022/23: £47,582,000\nTotal Government Funding in 2022/23: £486,497,000\n\n\nHM Land Registry 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download HM Land Registry Directory Data"
-  },
-  {
-    "objectID": "Departments.html#national-savings-and-investments",
-    "href": "Departments.html#national-savings-and-investments",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "National Savings and Investments",
-    "text": "National Savings and Investments\nStats for National Savings and Investments:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 208\nTotal RDEL Expenditure in 2022/23: £166,079,000\nTotal CDEL Expenditure in 2022/23: £11,454,000\nTotal Government Funding in 2022/23: £212,694,000\n\n\nNational Savings and Investments 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download National Savings and Investments Directory Data"
-  },
-  {
-    "objectID": "Departments.html#office-for-standards-in-education-childrens-services-and-skills",
-    "href": "Departments.html#office-for-standards-in-education-childrens-services-and-skills",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Office for Standards in Education, Childrens Services and Skills",
-    "text": "Office for Standards in Education, Childrens Services and Skills\nStats for Office for Standards in Education, Childrens Services and Skills:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 1,981.9\nTotal RDEL Expenditure in 2022/23: £187,368,000\nTotal CDEL Expenditure in 2022/23: £5,910,000\nTotal Government Funding in 2022/23: £218,349,000\n\n\nOffice for Standards in Education, Childrens Services and Skills 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Office for Standards in Education, Childrens Services and Skills Directory Data"
-  },
-  {
-    "objectID": "Departments.html#office-of-gas-and-electricity-markets",
-    "href": "Departments.html#office-of-gas-and-electricity-markets",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Office of Gas and Electricity Markets",
-    "text": "Office of Gas and Electricity Markets\nStats for Office of Gas and Electricity Markets:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 1,561.9\nTotal RDEL Expenditure in 2022/23: £-57,936,000\nTotal CDEL Expenditure in 2022/23: £2,163,000\nTotal Government Funding in 2022/23: £40,369,000\n\n\nOffice of Gas and Electricity Markets 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Office of Gas and Electricity Markets Directory Data"
-  },
-  {
-    "objectID": "Departments.html#office-of-rail-and-road",
-    "href": "Departments.html#office-of-rail-and-road",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Office of Rail and Road",
-    "text": "Office of Rail and Road\nStats for Office of Rail and Road:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 358.7\nTotal RDEL Expenditure in 2022/23: £3,000\nTotal CDEL Expenditure in 2022/23: £450,000\nTotal Government Funding in 2022/23: £0\n\n\nOffice of Rail and Road 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Office of Rail and Road Directory Data"
-  },
-  {
-    "objectID": "Departments.html#serious-fraud-office",
-    "href": "Departments.html#serious-fraud-office",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "Serious Fraud Office",
-    "text": "Serious Fraud Office\nStats for Serious Fraud Office:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 452.3\nTotal RDEL Expenditure in 2022/23: £73,495,000\nTotal CDEL Expenditure in 2022/23: £3,752,000\nTotal Government Funding in 2022/23: £88,567,000\n\n\nSerious Fraud Office 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download Serious Fraud Office Directory Data"
-  },
-  {
-    "objectID": "Departments.html#the-national-archives",
-    "href": "Departments.html#the-national-archives",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "The National Archives",
-    "text": "The National Archives\nStats for The National Archives:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 562\nTotal RDEL Expenditure in 2022/23: £46,176,000\nTotal CDEL Expenditure in 2022/23: £5,296,000\nTotal Government Funding in 2022/23: £52,772,000\n\n\nThe National Archives 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download The National Archives Directory Data"
-  },
-  {
-    "objectID": "Departments.html#the-statistics-board",
-    "href": "Departments.html#the-statistics-board",
-    "title": "ALBs By Department (To Be Fixed)",
-    "section": "The Statistics Board",
-    "text": "The Statistics Board\nStats for The Statistics Board:\n\nOrganisations in Scope: 1\nTotal Staff in 2022/23: 5,509\nTotal RDEL Expenditure in 2022/23: £576,903,120\nTotal CDEL Expenditure in 2022/23: £35,678,492\nTotal Government Funding in 2022/23: £632,630,947\n\n\nThe Statistics Board 2022/23 ALB Budgets:\n\n\n\n\n\n\n\n\n\n\n\n\n Download The Statistics Board Directory Data"
-  },
-  {
-    "objectID": "Budgets.html#albs-which-receive-the-most-government-funding",
-    "href": "Budgets.html#albs-which-receive-the-most-government-funding",
-    "title": "ALB Budgets",
-    "section": "ALBs which receive the most government funding",
-    "text": "ALBs which receive the most government funding\nIn 2022/23, total government funding allocated to ALBs was £353.3 billion. The vast majority of this funding went to 3 bodies: NHS England (£159 billion); Education and Skills Funding Agency (£67 billion); HM Revenue and Customs (£45 billion). These bodies deliver key outputs and services on behalf of the UK Government, which is reflected in their large budgets. Collectively, the 10 largest ALBs in terms of Government funding received more than 90% of all government funding for ALBs. More detail on these ALBs can be found in the Largest ALBs section.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Budgets.html#government-funding-for-albs-by-ministerial-departments",
-    "href": "Budgets.html#government-funding-for-albs-by-ministerial-departments",
-    "title": "ALBs Budgets",
-    "section": "Government Funding For ALBs By Ministerial Departments",
-    "text": "Government Funding For ALBs By Ministerial Departments\nALBs under The Department of Health and Social Care received £163.36bn in government funding. The departments which received the most funding from HMT in 2022/23 were Department of Health and Social Care, Department for Education, HM Treasury, Department for Transport and Department for Science, Innovation and Technology. Together, they were given £322.85bn for ALBs, which was 91.46% of all ALB government funding.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#plot-cdel",
-    "href": "Spending.html#plot-cdel",
-    "title": "ALB Spending",
-    "section": "Plot: CDEL",
-    "text": "Plot: CDEL"
-  },
-  {
-    "objectID": "Spending.html#data-cdel",
-    "href": "Spending.html#data-cdel",
-    "title": "ALB Spending",
-    "section": "Data: CDEL",
-    "text": "Data: CDEL\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n:::"
-  },
-  {
-    "objectID": "Departments.html#food-standards-agency",
-    "href": "Departments.html#food-standards-agency",
-    "title": "ALB Sponsorship",
-    "section": "Food Standards Agency",
-    "text": "Food Standards Agency\nStats for Food Standards Agency:\n\nOrganisations in Scope: 7\nTotal Staff in 2022/23: 1,332\nTotal RDEL Expenditure in 2022/23: £135,616,088\nTotal CDEL Expenditure in 2022/23: £9,549,000\nTotal Government Funding in 2022/23: £147,640,000\n\n\nFood Standards Agency 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Food Standards Agency Data"
-  },
-  {
-    "objectID": "Departments.html#hm-revenue-and-customs",
-    "href": "Departments.html#hm-revenue-and-customs",
-    "title": "ALB Sponsorship",
-    "section": "HM Revenue and Customs",
-    "text": "HM Revenue and Customs\nStats for HM Revenue and Customs:\n\nOrganisations in Scope: 2\nTotal Staff in 2022/23: 67,519\nTotal RDEL Expenditure in 2022/23: £6,547,189,704\nTotal CDEL Expenditure in 2022/23: £595,978,546\nTotal Government Funding in 2022/23: £45,520,101,926\n\n\nHM Revenue and Customs 2022/23 ALB Budgets:\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download HM Revenue and Customs Data"
-  },
-  {
-    "objectID": "high-profile-albs.html#profiles-10-largest-albs",
-    "href": "high-profile-albs.html#profiles-10-largest-albs",
-    "title": "High Profile ALBs",
-    "section": "Profiles: 10 largest ALBs",
-    "text": "Profiles: 10 largest ALBs"
-  },
-  {
-    "objectID": "about.html#about-arms-length-bodies",
-    "href": "about.html#about-arms-length-bodies",
-    "title": "About",
-    "section": "About Arm’s Length Bodies",
-    "text": "About Arm’s Length Bodies\n\nEAsNDPBsNMDs\n\n\nExecutive Agencies are clearly designated (and financially viable) business units within departments and are responsible for undertaking the executive functions of that department, as distinct from giving policy advice.\nExamples include:\n\nGovernment Property Agency\nThe Met Office\nHM Prison and Probation Service\n\n\n\nNon-Departmental Public Bodies have a role in the process of national government but are not part of a government department. They operate at arm’s length from ministers, though a minister will be responsible to Parliament for the administration and performance of the NDPBs sponsored by their departments.\nExamples include:\n\nNHS England\nThe British Library\nCare Quality Commission\n\n\n\nNon-Ministerial Departments operate similar to Ministerial Government Departments in the functions they perform (though they are usually more specialised and not as wide-ranging in the policy areas they cover). They generally cover matters for which direct political oversight is judged unnecessary or inappropriate.\nExamples include:\n\nSerious Fraud Office\nCompetition and Markets Authority\nSupreme Court of the United Kingdom"
-  },
-  {
-    "objectID": "about.html#our-data",
-    "href": "about.html#our-data",
-    "title": "About",
-    "section": "Our data",
-    "text": "Our data\n\n\n\n\n Download 2022/23 ALBs Data"
-  },
-  {
-    "objectID": "Budgets.html#alb-budgets-headlines",
-    "href": "Budgets.html#alb-budgets-headlines",
-    "title": "ALB Budgets",
-    "section": "",
-    "text": "In 2022/23 ALBs were allocated\n£353.3 Bn\nfrom the UK Government\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment funding increased from\n£271.91 Bn in 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nNHS England received \n£159.26 Bn\n\nin Government funding during\n2022/23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALBs generated\n£9.45 Bn\nfrom levies and fees as a source of other income"
-  },
-  {
-    "objectID": "Budgets.html#how-are-albs-funded",
-    "href": "Budgets.html#how-are-albs-funded",
-    "title": "ALBs Budgets",
-    "section": "How are ALBs funded?",
-    "text": "How are ALBs funded?\nIn most cases, HM Treasury funds ALBs by giving money to ministerial departments who then pass it on to the ALB; the department that passes money to an ALB is known as its sponsoring department. Non-ministerial departments are an exception to this as they receive money directly from HMT1."
-  },
-  {
-    "objectID": "Budgets.html#government-funding-for-albs-by-departments",
-    "href": "Budgets.html#government-funding-for-albs-by-departments",
-    "title": "ALB Budgets",
-    "section": "Government funding for ALBs by departments",
-    "text": "Government funding for ALBs by departments\nThe departments which were allocated the most funding for their ALBs from HM Treasury in 2022/23 were Department of Health and Social Care, Department for Education, HM Revenue and Customs, Department for Transport and Department for Science, Innovation and Technology. Together, they were allocated £322 billion for their ALBs, which was around 91% of all Government funding for ALBs.\nALBs sponsored by Department of Health and Social Care were budgeted £163.21 billion, largely driven by the £159.26 billion allocated to NHS England.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Budgets.html#albs-which-generate-the-most-income-through-levies-and-fees",
-    "href": "Budgets.html#albs-which-generate-the-most-income-through-levies-and-fees",
-    "title": "ALB Budgets",
-    "section": "ALBs which generate the most income through levies and fees",
-    "text": "ALBs which generate the most income through levies and fees\nIn 2022/23 the total budgetted income for ALBs was £362.75 billion. While the majority of funding for ALBs comes directly from the UK Government, some ALBs also generate their own income through levies and fees. All together, ALBs budgeted £9.45 Bn in income generated from levies and fees as a source of other income, representing 2.6% of all income for ALBs. The ALBs who generated the most income from levies and fees were Homes England (£1.08 billion) and Nuclear Decommissioning Authority (£1.06 billion).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Budgets.html#comparisons-with-2020",
-    "href": "Budgets.html#comparisons-with-2020",
-    "title": "ALBs Budgets",
-    "section": "Comparisons with 2020",
-    "text": "Comparisons with 2020\nThe amount of funding given to ALBs by the UK Government has increased by around 29.9% (£81.4 billion) when compared with the funding reported in the Public Bodies Directory from 2020. While some of this increase is attributable to inflation during this period, it is also linked to the addition of Network Rail as an ALB, who received £19.24 billion in 2022/23. The largest increase in funding went to NHS England, who saw an increase of around £36.46 billion during this time period. However, this increase also reflects NHS England’s merging with Health Education England and NHS Digital, and the dissolution of Public Health England.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#alb-sponsorship-by-department",
-    "href": "Departments.html#alb-sponsorship-by-department",
-    "title": "ALB Sponsorship",
-    "section": "ALB sponsorship by department",
-    "text": "ALB sponsorship by department\nThe 305 ALBs in 2022/23 were sponsored by 19 ministerial departments within the UK Government. Some ALBs, such as Non-Ministerial Departments operate with greater degree of independence from their sponsoring ministerial department, and may have their own relationship with HM Treasury when negotiating their budgets. Some Non-Ministerial Departments, such as HM Revenue and Customs, Food Standards Agency and the Forestry Commission, also sponsor other ALBs, and have direct sponsorship oversight for these ALBs.\nThe three departments who sponsored the most Arms Length Bodies were: Ministry of Justice (67), Department for Culture, Media and Sport (36), Department for Environment, Food and Rural Affairs (19). Whilst Ministry of Justice sponsors the the largest number of ALBs, its important to note that the majority of these (44) are Advisory Committees on Justices of the Peace, which have no dedicated budget, spending or staff. These ALBs operate in an advisory capacity and any resources they do use are typically consolidated within the wider Ministry of Justice budget.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#summaries-by-sponsoring-department",
-    "href": "Departments.html#summaries-by-sponsoring-department",
-    "title": "ALB Sponsorship",
-    "section": "Summaries by sponsoring department",
-    "text": "Summaries by sponsoring department"
-  },
-  {
-    "objectID": "Departments.html#comparisons-with-2020-fte",
-    "href": "Departments.html#comparisons-with-2020-fte",
-    "title": "ALB Sponsorship",
-    "section": "Comparisons with 2020: FTE",
-    "text": "Comparisons with 2020: FTE\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#comparisons-with-2020-budget",
-    "href": "Departments.html#comparisons-with-2020-budget",
-    "title": "ALB Sponsorship",
-    "section": "Comparisons with 2020: Budget",
-    "text": "Comparisons with 2020: Budget\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "high-profile-albs.html#the-10-largest-albs",
-    "href": "high-profile-albs.html#the-10-largest-albs",
-    "title": "High Profile ALBs",
-    "section": "",
-    "text": "While there were 305 ALBs in 2022/23, the way that ALBs are funded varies considerably across the landscape. The UK Government allocated £353.3 billion to ALBs, yet the 10 largest ALBs within the landscape received the vast majority of this funding, £326.29 billion, representing 92.4% of all Government funding. Accordingly, these bodies also represented the vast majority all ALBs’ Total Managed Expenditure, at £316.64 billion (92.2%). As employers, these bodies also represented around half (%) of the entire ALB workforce, employing 205,209 FTE. Collectively, this represents how the ALB landscape is skewed towards 10 large ALBs, which are profiled below.\nNote: Whilst Network Rail represents 2 bodies within the data, as both Network Rail and Great British Railways, as they share the same resources we have counted them as 1 ALB for the purposes of this analysis.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Purposes.html#purpose-of-albs",
-    "href": "Purposes.html#purpose-of-albs",
-    "title": "ALB Purposes",
-    "section": "Purpose of ALBs",
-    "text": "Purpose of ALBs\nALBs serve a broad range of functions. This section provides an overview of the purpose of ALBs by grouping them into nine categories, which were self-reported by ALBs. An ALB can belong to up to three categories and these are ranked in order of priority. However every ALB is unique, and these categories only provide a broad overview of the work that ALBs do.\n94 bodies had more than one type of purpose in 2022/23. 78% of bodies in the landscape had either advisory or delivery and major programmes as their primary purpose.\n8 ALBs primarily focussed on research and development or other kinds of innovation, whereas 18 performed it as either their secondary or tertiary function instead. There were 17 bodies who had a purpose that did not fit into one of the main categories, however no bodies had a primary purpose from the Other category.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Purposes.html#alb-purposes-by-classification",
-    "href": "Purposes.html#alb-purposes-by-classification",
-    "title": "ALB Purposes",
-    "section": "ALB purposes by classification",
-    "text": "ALB purposes by classification\n116 Advisory NDPBs had an advisory purpose out of the 117 in the landscape. 82% of Executive Agencies worked on major programmes and delivery, and 39% had more than one purpose.\nExecutive NDPBs performed a wide range of functions. 36% did delivery and major programmes, % provided advice, 21% did safety, licensing and regulation and 21% had a cultural purpose.\nNon-Ministerial Departments also had a wide range of purposes with 55% doing delivery and programmes, 30% are economic and sectoral regulators and 25% work on safety, licensing and regulation\n\nPlotHeatmapData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPurpose of ALBs by Classification. Values are the proportion of ALBs in an administrative classification that perform that purpose. It does not take the priority of the purpose into account\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Purposes.html#alb-purposes-by-sponsoring-department",
-    "href": "Purposes.html#alb-purposes-by-sponsoring-department",
-    "title": "ALB Purposes",
-    "section": "ALB purposes by sponsoring department",
-    "text": "ALB purposes by sponsoring department\nAll departments except HMRC had ALBs that performed advisory functions and all except FSA had bodies that performed major programmes and delivery for them. In particular, the FSA, MOJ and FC ALBs’ focus was majoritively dedicated to advice and for OSSS, HMT and HMRC it was on delivery and programmes.\nALBs under DEFRA and DCMS had the broadest range of purposes spanning 9 and 8 categories respectively. Only 6 departments had ALBs that served a cultural purpose and that was the least common category across department out of all purposes.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProportion of focus of departments’ ALBs. Figures reflect the all purposes of a departments’ ALBs and therefore makes no distinction between the order of priority of the purposes. You can double click a purpose category to see the proportions for just that purpose.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Purposes.html#albs-with-regulatory-powers",
-    "href": "Purposes.html#albs-with-regulatory-powers",
-    "title": "ALB Purposes",
-    "section": "ALBs with regulatory powers",
-    "text": "ALBs with regulatory powers\nOnly 82% of bodies that primarily focussed on regulating the economy and other sectors had regulatory powers. Additionally, 70% of bodies whose number one priority is safety, licensing and regulation had regulatory powers as well. No cultural bodies had regulatory powers.\nThere were 14 ALBs that had regulatory powers but did not have providing regulation or being a regulatory body as their primary, secondary or tertiary purpose in 2022/23.\n\nPlotData"
-  },
-  {
-    "objectID": "Purposes.html#alb-purposes-and-sub-purposes",
-    "href": "Purposes.html#alb-purposes-and-sub-purposes",
-    "title": "ALB Purposes",
-    "section": "ALB purposes and sub-purposes",
-    "text": "ALB purposes and sub-purposes\nThere were 119 bodies who performed advisory functions but served no other purpose. 43% of bodies who primarily worked on delivery and major programmes also had another purpose. Out of the bodies that had a primary purpose of safety, licensing and regulation, 19% of them had a secondary purpose that did not fit into the main purpose categories.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou can explore the full structure of the purpose of ALBs by clicking on the boxes. The first layer that you see is their primary purpose, the second is their secondary and the third their tertiary.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#alb-spending-headlines",
-    "href": "Spending.html#alb-spending-headlines",
-    "title": "ALB Spending",
-    "section": "",
-    "text": "In 2022/23 ALBs spent\n£343.55 Bn\n\n\n\n\n\n\n\n\n\n\n\n\n\nRDEL (running costs)\n£270.63 Bn (78.8%)\n\n\n\n\n\n\n\n\n\n\n\n\nAME (demand-led spending)\n£36.27 Bn (10.6%)\n\n\n\n\n\n\n\n\n\n\n\n\nCDEL (investment costs)\n£36.64 Bn (10.7%)"
-  },
-  {
-    "objectID": "Spending.html#how-much-do-albs-spend",
-    "href": "Spending.html#how-much-do-albs-spend",
-    "title": "ALB Spending",
-    "section": "How much do ALBs spend?",
-    "text": "How much do ALBs spend?\nCollectively, ALBs spent £343.5 billion in 2022/23. The largest type of spending by ALBs was RDEL Programme spending, which covers ALB running costs, at £263.7billion, representing 76.8% of all ALB expenditure. However, ALB running costs can also include money that is disbursed by the ALB to fund the operations of other organisations as grants-in-aid. In fact grants-in-aid spending represented 68.7% of all ALB expenditure, reflecting the roles of NHS England and Education and Skills Funding Agency, who distribute funding to hospitals and schools. respectively. For additional context, the total expenditure for the UK Government in 2022/23 was £1,133.6 billion, meaning ALBs represent around a third of all public expenditure.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#spending-by-classification",
-    "href": "Spending.html#spending-by-classification",
-    "title": "ALB Spending",
-    "section": "Spending by classification",
-    "text": "Spending by classification\nExecutive NDPBs spent £212.31 billion in total, which was 61.8% of all ALB spend. They also spent the most on CDEL (investment spending) at £33.89 billion. On the other hand, although Advisory, Crown and Tribunal NDPBs make up 42.3% of bodies, they together spent only £287.26 million in 2022/23.\nNMDs contributed 93.57% to total AME (demand-led spending). Additionally, 79.54% of EAs’ TME was spent as grants, which was the highest proportion out of all classifications.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#grants-spending",
-    "href": "Spending.html#grants-spending",
-    "title": "ALB Spending",
-    "section": "Grants spending",
-    "text": "Grants spending\nGrants spending captures the money spent by ALBs when issuing money as a Grants-in-Aid to other entities. A Grant-in-Aid is money given by one organisation to another organisation, which is used to support the activities and objectives of the receiving organisation. For example, Education and Skills Funding Agency issues grants to schools and academies as part of the National Funding Formula. In total, ALBs issued more than £236 Bn in grants during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Spending.html#comparisons-with-2020",
-    "href": "Spending.html#comparisons-with-2020",
-    "title": "ALB Spending",
-    "section": "Comparisons with 2020",
-    "text": "Comparisons with 2020\nIn the 2019/20 Public Bodies Directory, the Total Managed Expenditure (TME) for ALBs was £292.22 billion. In 2022/23 this had risen to £343.55 billion, representing an increase of around 17.6% (£51.32 billion). Most of this increase in spend is seen in resource (day to day) spending of ALBs. Much like ALB budgets, these increases are primarily attributable to inflation during this time period, and the formal classification of Network Rail as an ALB for 2022/23.\nWhen making comparisons in ALBs’ spending with 2019/20, its important to note that the way AME was measured for 2022/23 differs from 2019/20. In the 2019/20 Public Bodies Directory, ALBs only provided their Resource AME (RAME), whereas for 2022/23 the Cabinet Office collected both RAME and Capitalised AME (CAME) as a single AME value. While this change was made to provide a complete picture of AME spending, CAME spending is relatively uncommon compared to RAME. Analysis by the Institute For Government covering 2021/22 suggests that most Government departments do not use CAME spending. As such, this difference is unlikely to affect the majority of ALBs.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#alb-staffing-headlines",
-    "href": "Staff.html#alb-staffing-headlines",
-    "title": "ALB Staff",
-    "section": "",
-    "text": "In 2022/23 ALBs employed\n390,845 Staff (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nThe ALB workforce has increased from\n318,714 in 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHM Revenue and Customs Employed \n63,738 FTE\nand are the largest ALB employer.\n\n\n\n\n\n\n\n\n\n\n\n\nReclassification of Network Rail in 2022 added\n41,147 FTE\nto this total."
-  },
-  {
-    "objectID": "Staff.html#alb-employee-types",
-    "href": "Staff.html#alb-employee-types",
-    "title": "ALB Staff",
-    "section": "ALB employee types",
-    "text": "ALB employee types\nIn 2022/23, there were 390,845 staff (FTE) who were employed by Arm’s Length Bodies.\nCivil Servants: Of this total, 62% of staff employed in these organisations were Civil Servants. Within the ALB landscape, Civil Servants work primarily within Non-Ministerial Departments and Executive Agencies.\nPublic Servants: Public Servants made up 38% of the workforce, and are primarily employed to work in Executive Non-Departmental Public Bodies.\nMixed Workforces: A tiny proportion of around 0.08% of the workforce were employed in Advisory and Tribunal NDPBs, where staff may be either Civil or Public Servants. Staff employed in these organisations are often employed in a part-time basis, and may spend part of their time working for other ALBs or their sponsoring departments.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#departments-sponsoring-albs-with-the-largest-workforces",
-    "href": "Staff.html#departments-sponsoring-albs-with-the-largest-workforces",
-    "title": "ALB Staff",
-    "section": "Departments sponsoring ALBs with the largest workforces",
-    "text": "Departments sponsoring ALBs with the largest workforces\nWhile ALBs employed around 390,845 staff (FTE), the vast majority of these staff (268,754) were employed by ALBs sponsored by just 5 ministerial departments, representing 68.8%. The departments sponsoring the largest ALB workforces were: Minsitry of Justice (82,493), HMRC (67,519), and Department for Transport (66,912). As a Non-ministerial department, HMRC operates as its own sponsor, whilst also sponsoring the Valuation Office Agency.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#albs-by-geography",
-    "href": "Staff.html#albs-by-geography",
-    "title": "ALB Staff",
-    "section": "ALBs by geography",
-    "text": "ALBs by geography"
-  },
-  {
-    "objectID": "Staff.html#london-based-staff",
-    "href": "Staff.html#london-based-staff",
-    "title": "ALB Staff",
-    "section": "London-based staff",
-    "text": "London-based staff\nWhile the majority of ALBs have their headquarters based in London, the majority of the ALB workforce is based outside of London. Within the total ALB workforce of 390,845, the majority of staff (335,636) were employed outside of London, representing 85.9%. This trend reflects the Government’s wider Places For Growth programme, which aims to create more opportuntities for the Civil Service to deliver in areas outside of London.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#largest-alb-employers-in-london",
-    "href": "Staff.html#largest-alb-employers-in-london",
-    "title": "ALB Staff",
-    "section": "Largest ALB employers in London",
-    "text": "Largest ALB employers in London\nOf the 55,209.25 staff employed in London by ALBs, 29,554.3 where employed by 5 ALBs, representing 53.6% of all London-based ALB staff. The ALBs with the largest London-based workforces were HM Revenue and Customs (9,165), HM Prison and Probation Service (7,483), and Network Rail (6,918).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#london-based-alb-staff-proportions",
-    "href": "Staff.html#london-based-alb-staff-proportions",
-    "title": "ALB Staff",
-    "section": "London-based ALB staff proportions",
-    "text": "London-based ALB staff proportions\nWhile the ALBs above employed the most London-based staff, the majority of these ALBs still employ most of their staff outside of London. For example, whilst HMRC employed around 9,165 staff in London, they employed around 63,738 outside of London, meaning only 14% of HMRC’s entire staff were based within London during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#comparisons-with-2020",
-    "href": "Staff.html#comparisons-with-2020",
-    "title": "ALB Staff",
-    "section": "Comparisons with 2020",
-    "text": "Comparisons with 2020\nWhen compared with the number of staff employed by ALBs in the Public Bodies Directory from 2020 (318,714 FTE), the number of staff employed by ALBs has increased by more than 72,000. Most of this is attributable to changes in the NDPB workforce, which increased by nearly 46,000 staff during this time period. Notably, this increase largely reflects the addition of Network Rail as an Arm’s Length Body which had around 41,000 staff in their workforce during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#alb-fte-by-sponsoring-department-comparisons-with-2020",
-    "href": "Departments.html#alb-fte-by-sponsoring-department-comparisons-with-2020",
-    "title": "ALB Sponsorship",
-    "section": "ALB FTE by sponsoring department: Comparisons with 2020",
-    "text": "ALB FTE by sponsoring department: Comparisons with 2020\nWhile the overall number of staff employed by ALBs has increased from 318,714 in 2019/20 to 390,845 in 2022/23, most of this increase can be attributed to ALBs sponsored by a small number of departments. The ALB workforce sponsored by the Department for Transport increased by 48,577 during this period, mostly driven by the 41,147 staff employed by Network Rail. The workforce of ALBs sponsored by Ministry of Justice also increased by 13,256 during this time period.\nMachinery of Government changes in 2022/23 also saw the Department for Business, Energy and Industrial Strategy split apart into Department for Business and Trade, Department for Energy Security and Net Zero, and Department for Science Innovation, and Technology. With this change, most of the ALBs sponsored by BEIS were split between these departments, whilst sponsorship of HM Land Registry was moved to Ministry of Housing, Communities and Local Government.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#alb-budgets-by-sponsoring-department-comparisons-with-2020",
-    "href": "Departments.html#alb-budgets-by-sponsoring-department-comparisons-with-2020",
-    "title": "ALB Sponsorship",
-    "section": "ALB budgets by sponsoring department: Comparisons with 2020",
-    "text": "ALB budgets by sponsoring department: Comparisons with 2020\nMuch like the size of the ALB workforce, Government funding for ALBs has also increased from £271.9 Bn in 2019/20 to £353.3 Bn 2022/23. The 3 sponsoring departments with the largest increases in ALB funding were: Department of Health and Social Care (from £131.8 Bn to £163.2 Bn), Department for Transport (from £3.5 Bn to £33.1 Bn), and Department for Education (from £60.7 Bn to £69.6 Bn). The large increase for Department of Health and Social Care is attributable to increases in funding for NHS England.\nIt is important to note that while sponsorship of Network Rail has increased the amount of Government funding for ALBs sponsored by Department for Transport between 2019/20 and 2022/23, Network Rail itself was reclassified as a Central Government Body in September 2014, and it was only in 2022 that it formally became classified as an Arm’s Length Body.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Staff.html#alb-headquarters-locations",
-    "href": "Staff.html#alb-headquarters-locations",
-    "title": "ALB Staff",
-    "section": "ALB headquarters locations",
-    "text": "ALB headquarters locations\nThe location of headquarters of ALBs sponsored by the UK Government are spread across the UK. The vast majority of ALBs have their headquarters in London (122), while the South West (24) and West Midlands (20) were the other regions with the most headquarters. The North East (2) and Northern Ireland (3) were the regions with the least amount of ALB headquarters. 73 ALBs (around a quarter of all ALBs) reported that they have no designated headquarters.\n\nPlotData\n\n\n\n\n\n\n\n\nSource: Office for National Statistics licensed under the Open Government Licence v.3.0 Contains OS data © Crown copyright and database right [year]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Budgets.html#alb-funding",
-    "href": "Budgets.html#alb-funding",
-    "title": "ALB Budgets",
-    "section": "ALB funding",
-    "text": "ALB funding\nIn most cases, HM Treasury funds ALBs by allocating money to ministerial departments who then delegated it to their ALBs; the department that funds an ALB is known as its sponsoring department. Non-ministerial departments are an exception to this as they often receive money directly from HMT1, and may often act as their own sponsor, or even sponsor other ALBs. These delegated budgets are typically set years in advance, and as such may be subject to change. Due to this, the ALB budgets reported below may not directly match up with the values reported in ALB Spending, which captures actual spending outturn for 2022/23."
-  },
-  {
-    "objectID": "Budgets.html#albs-that-receive-no-direct-government-funding",
-    "href": "Budgets.html#albs-that-receive-no-direct-government-funding",
-    "title": "ALB Budgets",
-    "section": "ALBs that receive no direct government funding",
-    "text": "ALBs that receive no direct government funding\nFrom a total of 305 ALBs in 2022/23, around 110 bodies (36%) received no direct funding from the UK Government. Many of these bodies are Advisory and Tribunal NDPBs which operate using shared resources from their sponsoring department, such as the Traffic Commissioners for Great Britain (Department for Transport) and the Police Discipline Appeals Tribunal (Home Office).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "about.html#alb-classifications",
-    "href": "about.html#alb-classifications",
-    "title": "About",
-    "section": "",
-    "text": "Features of ALB classifications\n\n\n\n\n\n\n\n Source: HM Treasury managing public money\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nALBs are classified, among other factors, on their level of independence from their sponsoring department, as outlined in the ALB sponsorship code of good practice. Executive agencies are typically more closely aligned with their department who often define the policies that they must follow, however the EA can decide the operational details of how to implement those policies. Departments can’t set the policies of NDPBs and NMDs but can set the strategic framework which outlines their overarching goals. Non-ministerial departments are usually considered the most independent as they have the additional freedom of having their own budget set aside for them by HM Treasury.\nNDPBs are further classified based on their function. Advisory NDPBs perform only advisory functions whereas Executive NDPBs typically perform delivery. These subclassifications can inform the way that NDPBs operate. For example, Advisory NDPBs typically operate without a dedicated workforce, and are funded directly from within their sponsoring department’s budget. In contrast Executive NDPBs typically have their own dedicated workforce, and have budgets allocated to them by their sponsoring department.\nThe Public Bodies Handbook provides a much more detailed breakdown of classifications of public bodies and ALBs sponsored by the UK government."
-  },
-  {
-    "objectID": "about.html#about-arms-length-bodies-work-in-progress",
-    "href": "about.html#about-arms-length-bodies-work-in-progress",
-    "title": "About",
-    "section": "About Arm’s Length Bodies (Work in Progress)",
-    "text": "About Arm’s Length Bodies (Work in Progress)\n\nEAsNDPBsNMDs\n\n\nExecutive Agencies are clearly designated (and financially viable) business units within departments and are responsible for undertaking the executive functions of that department, as distinct from giving policy advice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nNon-Departmental Public Bodies have a role in the process of national government but are not part of a government department. They operate at arm’s length from ministers, though a minister will be responsible to Parliament for the administration and performance of the NDPBs sponsored by their departments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nNon-Ministerial Departments operate similar to Ministerial Government Departments in the functions they perform (though they are usually more specialised and not as wide-ranging in the policy areas they cover). They generally cover matters for which direct political oversight is judged unnecessary or inappropriate.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Purposes.html#alb-purposes-headlines",
-    "href": "Purposes.html#alb-purposes-headlines",
-    "title": "ALB Purposes",
-    "section": "",
-    "text": "Advisory bodies\n128\n\n\n\n\n\n\n\n\n\n\n\n\nMajor projects and delivery bodies\n68\n\n\n\n\n\n\n\n\n\n\n\n\nSafety and licensing bodies\n27\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural institutions\n23\n\n\n\n\n\n\n\n\n\n\n\n\nJustice and prosecutorial enforcers\n20\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic or sectoral regulators\n18\n\n\n\n\n\n\n\n\n\n\n\n\nGrant and subsidy issuing bodies\n13\n\n\n\n\n\n\n\n\n\n\n\n\nResearch, innovation and development bodies\n8"
-  },
-  {
-    "objectID": "Departments.html#alb-sponsorship-headlines",
-    "href": "Departments.html#alb-sponsorship-headlines",
-    "title": "ALB Sponsorship",
-    "section": "",
-    "text": "ALBs were sponsored by\n22\nministerial and non-ministerial departments\n\n\n\n\n\n\n\n\n\n\n\n\nMinistry of Justice\n67\nsponsored the most ALBs\n\n\n\n\n\n\n\n\n\n\n\n\nDepartment of Health and Social Care\n£163.2 Bn\nallocated the most Government funding to ALBs\n\n\n\n\n\n\n\n\n\n\n\n\nMinistry of Justice\n82,493 FTE\nalso sponsored the largest ALB workforce"
-  },
-  {
-    "objectID": "Spending.html#alb-spending-categories",
-    "href": "Spending.html#alb-spending-categories",
-    "title": "ALB Spending",
-    "section": "ALB spending categories",
-    "text": "ALB spending categories\nThe total amount of money that an ALB spends is called Total Managed Expenditure (TME). This can be classified as either Annually Managed Expenditure (AME) or within their Departmental Expenditure Limit (DEL). AME is demand-led expenditure that is typically hard to budget for in advance, such as pension or welfare claims. Conversely, DEL is typically the body’s main budget, and is used for more predictable spending, such as long-running programmes and projects.1\nDEL spend can be further broken down into Resource DEL (RDEL) and Capital DEL (CDEL). RDEL is the cost of running the organisation, which can be on the body’s programmes or the administrative cost for supporting the body. CDEL is expenditure that provides an investment for the body, such as buying property.\nThe RDEL and CDEL figures in this section are the sums that the body actually spent (known as actual spending outturn), rather than the body’s budget for it, As such, the spending for ALBs reported below may not directly match up with the values reported in ALB Budgets, which captures delegated budgets for 2022/23."
-  },
-  {
-    "objectID": "Spending.html#footnotes",
-    "href": "Spending.html#footnotes",
-    "title": "ALB Spending",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nhttps://www.gov.uk/government/publications/consolidated-budgeting-guidance-2023-to-2024↩︎"
-  },
-  {
-    "objectID": "Spending.html#grants_spending",
-    "href": "Spending.html#grants_spending",
-    "title": "ALB Spending",
-    "section": "Grants spending",
-    "text": "Grants spending\nGrants spending captures the money spent by ALBs when issuing money as a Grants-in-Aid to other entities. A Grant-in-Aid is money given by one organisation to another organisation, which is used to support the activities and objectives of the receiving organisation. For example, Education and Skills Funding Agency issues grants to schools and academies as part of the National Funding Formula. In total, ALBs issued more than £236 Bn in grants during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Budgets.html#budget_comparisons_2020",
-    "href": "Budgets.html#budget_comparisons_2020",
-    "title": "ALB Budgets",
-    "section": "Comparisons with 2020",
-    "text": "Comparisons with 2020\nIn the 2019/20 Public Bodies Directory, the amount of Government funding allocated for ALBs was £271.91 billion. In 2022/23 this had risen to £353.3 billion, representing an increase of around 29.9% (£81.4 billion). While some of this increase is attributable to inflation during this period, it is also linked to the addition of Network Rail as an ALB, who received £19.24 billion in 2022/23. The largest increase in funding went to NHS England, who saw an increase of around £36.46 billion during this time period. However, this increase also reflects NHS England’s merging with Health Education England and NHS Digital, and the dissolution of Public Health England.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#summaries-of-income-for-each-alb-by-sponsoring-department",
-    "href": "Departments.html#summaries-of-income-for-each-alb-by-sponsoring-department",
-    "title": "ALB Sponsorship",
-    "section": "Summaries of income for each ALB by sponsoring department",
-    "text": "Summaries of income for each ALB by sponsoring department\nThe way that ALBs receive money can vary depending on their purpose and operational remit. Some ALBs are funded only by direct government funding, some ALBs are funded by levies and fees to their service users, and other ALBs are funded by a mix of government funding and levies. Below is a breakdown of the income for each ALB sponsored by each ministerial and non-ministerial department."
-  },
-  {
-    "objectID": "about.html#about-alb-classifications",
-    "href": "about.html#about-alb-classifications",
-    "title": "About",
-    "section": "",
-    "text": "ALBs are classified, among other factors, on their level of independence from their sponsoring department, as outlined in the ALB sponsorship code of good practice. Executive agencies are typically more closely aligned with their department who often define the policies that they must follow, however the EA can decide the operational details of how to implement those policies. Departments can’t set the policies of NDPBs and NMDs but can set the strategic framework which outlines their overarching goals. Non-ministerial departments are usually considered the most independent as they have the additional freedom of having their own budget set aside for them by HM Treasury.\nNDPBs are further classified based on their function. Advisory NDPBs perform only advisory functions whereas Executive NDPBs typically perform delivery. These subclassifications can inform the way that NDPBs operate. For example, Advisory NDPBs typically operate without a dedicated workforce, and are funded directly from within their sponsoring department’s budget. In contrast Executive NDPBs typically have their own dedicated workforce, and have budgets allocated to them by their sponsoring department.\nThe Public Bodies Handbook provides a much more detailed breakdown of classifications of public bodies and ALBs sponsored by the UK government.\n\n\n\n\n\nFeatures of ALB classifications\n\n\n\n\n\n\n\n Source: HM Treasury managing public money\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "about.html#alb-landscape-202223-dataset",
-    "href": "about.html#alb-landscape-202223-dataset",
-    "title": "About",
-    "section": "",
-    "text": "The entire dataset for this analysis covering 2022/23 can be downloaded below. Datasets covering previous financial years from 2019/20 back to 2011/12 can also be found here: Public Bodies Publications.\n\n\n\n\n Download 2022/23 ALBs Data"
-  },
-  {
-    "objectID": "about.html#alb-classifications-datasets",
-    "href": "about.html#alb-classifications-datasets",
-    "title": "About",
-    "section": "",
-    "text": "EAsNDPBsNMDs\n\n\nExecutive Agencies are clearly designated (and financially viable) business units within departments and are responsible for undertaking the executive functions of that department, as distinct from giving policy advice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nNon-Departmental Public Bodies have a role in the process of national government but are not part of a government department. They operate at arm’s length from ministers, though a minister will be responsible to Parliament for the administration and performance of the NDPBs sponsored by their departments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nNon-Ministerial Departments operate similar to Ministerial Government Departments in the functions they perform (though they are usually more specialised and not as wide-ranging in the policy areas they cover). They generally cover matters for which direct political oversight is judged unnecessary or inappropriate.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "about.html#data-on-albs",
-    "href": "about.html#data-on-albs",
-    "title": "About",
-    "section": "",
-    "text": "You can explore the underlying data on ALBs in more detail by visiting our ALB Data Explorer tool, which provides more granular insights into each ALB.\nThe entire dataset for this analysis covering 2022/23 can also be downloaded by using the button below.\nDatasets covering previous financial years from 2019/20 back to 2012/13 can also be found here: Public Bodies Publications.\n\n\n\n\n Download 2022/23 ALBs Data"
-  },
-  {
-    "objectID": "about.html#resources-data-on-albs",
-    "href": "about.html#resources-data-on-albs",
-    "title": "About",
-    "section": "",
-    "text": "You can explore the data used for this analysis by visiting our ALB Data Explorer tool, which provides more granular insights into each ALB. This tool will let you build your own charts and tables with our data, so you can make comparisons between different ALBs.\n\nThe entire dataset for this analysis covering 2022/23 can also be downloaded by using the button below.\n\n\n\n Download 2022/23 ALBs Data\n\n\n\n\n\nDatasets covering previous financial years from 2019/20 back to 2012/13 can also be found here: Public Bodies Publications. The Public Bodies Directory is a publication which has evolved over a number of years, and there have been numerous changes in the scope and definitions of variables collected for these historic publications. As such, care should be taken when making comparisons with data covering previous financial years."
-  },
-  {
-    "objectID": "about.html#resources-about-alb-classifications",
-    "href": "about.html#resources-about-alb-classifications",
-    "title": "About",
-    "section": "",
-    "text": "ALBs are classified, among other factors, on their level of independence from their sponsoring department, as outlined in the ALB sponsorship code of good practice. Executive agencies are typically more closely aligned with their department who often define the policies that they must follow, however the EA can decide the operational details of how to implement those policies. Departments can’t set the policies of NDPBs and NMDs but can set the strategic framework which outlines their overarching goals. Non-ministerial departments are usually considered the most independent as they typically have their own direct relationship with HM Treasury for negotiating their budgets.\nNDPBs are further classified based on their function. Advisory NDPBs perform only advisory functions whereas Executive NDPBs typically deliver frontline services to the wider public. These subclassifications can inform the way that NDPBs operate. For example, Advisory NDPBs typically operate without a dedicated workforce, and their activities are typically funded directly from within their sponsoring department’s budget. In contrast Executive NDPBs typically have their own dedicated workforce, and have budgets allocated to them by their sponsoring department and HM Treasury.\nThe Public Bodies Handbook provides a much more detailed breakdown of classifications of public bodies and ALBs sponsored by the UK government.\n\n\n\n\n\nFeatures of ALB classifications\n\n\n\n\n\n\n\n Source: HM Treasury managing public money\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "about.html#resources-alb-classifications-datasets",
-    "href": "about.html#resources-alb-classifications-datasets",
-    "title": "About",
-    "section": "",
-    "text": "Pre-made datasets with key variables for each of the main 3 ALB classification types can be found below. Pre-made datasets for each sponsoring department for ALBs can be found in the Sponsorship page\n\nEAsNDPBsNMDs\n\n\nExecutive Agencies are clearly designated (and financially viable) business units within departments and are responsible for undertaking the executive functions of that department, as distinct from giving policy advice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nNon-Departmental Public Bodies have a role in the process of national government but are not part of a government department. They operate at arm’s length from ministers, though a minister will be responsible to Parliament for the administration and performance of the NDPBs sponsored by their departments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data\n\n\n\n\nNon-Ministerial Departments operate similar to Ministerial Government Departments in the functions they perform (though they are usually more specialised and not as wide-ranging in the policy areas they cover). They generally cover matters for which direct political oversight is judged unnecessary or inappropriate.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
-  },
-  {
-    "objectID": "Departments.html#dept_summary_section",
-    "href": "Departments.html#dept_summary_section",
-    "title": "ALB Sponsorship",
-    "section": "Summaries of income for each ALB by sponsoring department",
-    "text": "Summaries of income for each ALB by sponsoring department\nThe way that ALBs receive money can vary depending on their purpose and operational remit. Some ALBs are funded only by direct government funding, some ALBs are funded by levies and fees to their service users, and other ALBs are funded by a mix of government funding and levies. Below is a breakdown of the income for each ALB sponsored by each ministerial and non-ministerial department."
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "About",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nPublic Bodies: What Is a Public Body?↩︎\nSetting Up A New Arms’ Length Body: Guidance for Departments↩︎\nGovernment Analysis Function: Government Statistical Service Harmonised Definitions 2019↩︎\nHow to understand public sector spending: TME↩︎\nHow to understand public sector spending: RDEL↩︎\nHow to understand public sector spending: RDEL↩︎\nHow to understand public sector spending: AME↩︎"
-  },
-  {
-    "objectID": "about.html#rdel",
-    "href": "about.html#rdel",
-    "title": "About",
-    "section": "RDEL",
-    "text": "RDEL\nSome ALBs were unable to provide a breakdown of the RDEL spend by Admin and Programme spending. This is usually due to the way that they are funded, such as through cost-recovery functions, wherein the ALB effectively charges their sponsor department for the services they provide. This model means that the budgeting of the ALB is not defined in the same way as other ALBs."
-  },
-  {
-    "objectID": "about.html#staff-data",
-    "href": "about.html#staff-data",
-    "title": "About",
-    "section": "Staff Data",
-    "text": "Staff Data"
-  },
-  {
-    "objectID": "about.html#incomplete-data",
-    "href": "about.html#incomplete-data",
-    "title": "About",
-    "section": "Incomplete Data",
-    "text": "Incomplete Data"
-  },
-  {
-    "objectID": "about.html#rdel-split",
-    "href": "about.html#rdel-split",
-    "title": "About",
-    "section": "RDEL Split",
-    "text": "RDEL Split\nSome ALBs were unable to provide a breakdown of the RDEL spend by Admin and Programme spending. This is usually due to the way that they are funded, such as through cost-recovery functions, wherein the ALB effectively charges their sponsor department for the services they provide. This model means that the budgeting of the ALB is not defined in the same way as other ALBs. Similarly, ALBs who operate as a trading fund may also not be able to provide their RDEL split as they are financed differently."
   },
   {
     "objectID": "index.html",
@@ -1092,116 +434,39 @@
     "text": "The number of ALBs does not tell the whole story\nExecutive NDPBs were the largest classification group in 2022/23, comprising 39% of ALBs. Executive NDPBs spent 61.8% of total ALB spending and employed 37.9% of all staff employed by ALBs in 2022/23. In contrast, Advisory NDPBs comprised 38% of ALBs, but contributed to only 0.005% of total ALB spending and 0.04% of all staff employed by ALBs in 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
-    "objectID": "high-profile-albs.html#homes-england",
-    "href": "high-profile-albs.html#homes-england",
-    "title": "High Profile ALBs",
-    "section": "Homes England",
-    "text": "Homes England\nHomes England deliver Government’s housing and regeneration programmes across England, except London where this is devolved to the Mayor. They: deliver land and infrastructure objectives by assembling, marketing and master planning across a land portfolio; provide loan finance to private sector house builders; they commission and grant fund delivery of affordable homes by Registered providers; act as a delivery partner for building remediation; and manage the consumer loand book of the Help to Buy scheme.\n\n\n\n\n\n\n\n\n\n\nHomes England\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Levelling Up, Housing and Communities\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nPeter Denton\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nWest Midlands  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n1.3 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.4%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£4.4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£1.7 Bn"
-  },
-  {
-    "objectID": "ALB-Accountability.html",
-    "href": "ALB-Accountability.html",
-    "title": "ALB Accountability",
+    "objectID": "Purposes.html",
+    "href": "Purposes.html",
+    "title": "ALB Purposes",
     "section": "",
-    "text": "In 2022/23 ALB chairs recieved\n£9 M\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe highest remuneration for a chair was\n£314,500 in 2022/23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMost active ALBs were established between\n1975-2000\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe percentage of ALBs with published ARAS was:\n81%\nThis website was built in"
+    "text": "Advisory bodies\n128\n\n\n\n\n\n\n\n\n\n\n\n\nMajor projects and delivery bodies\n68\n\n\n\n\n\n\n\n\n\n\n\n\nSafety and licensing bodies\n27\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural institutions\n23\n\n\n\n\n\n\n\n\n\n\n\n\nJustice and prosecutorial enforcers\n20\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic or sectoral regulators\n18\n\n\n\n\n\n\n\n\n\n\n\n\nGrant and subsidy issuing bodies\n13\n\n\n\n\n\n\n\n\n\n\n\n\nResearch, innovation and development bodies\n8\nThis website was built in"
   },
   {
-    "objectID": "high-profile-albs.html#na",
-    "href": "high-profile-albs.html#na",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nNHS England was established by Parliament in 2012 as an independent statutory body. Its role is to lead the NHS in England to deliver high quality services for all. NHS England shares with the Secretary of State for Health and Social Care the legal duty to promote a comprehensive health service in England, in accordance with the National Health Service Act 2006 (as amended by the Health and Social Care Act 2012 and most recently the Health and Care Act 2022). We set the national direction, allocate resources, ensure accountability, define the national strategy for supporting and developing people, mobilise expert networks, give support to drive improvement, deliver essential services including national procurement and digital services, and lead the national agenda for transformation.\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment of Health and Social Care\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAmanda Pritchard\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n14.4 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\nNA%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£159.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£157.9 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£155.9 Bn"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-1",
-    "href": "high-profile-albs.html#na-1",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nESFA’s purpose is to ensure that every pound spent on education and skills has the greatest possible impact on ensuring all learners realise their potential. We do this by providing certainty on funding to the education sector so they can plan effectively, providing high quality support and guidance to help them protect against financial difficulty, and assurance work to ensure taxpayers’ money is used for its intended purpose. We work with education and skills providers across the sector.\n\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Education\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nJohn Edwards (until 13th July), Warwick Sharp (until 15th August), David Withey\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nWest Midlands  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n746.8 (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n13.9%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£67.5 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£67.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£67.2 Bn"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-2",
-    "href": "high-profile-albs.html#na-2",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nUK’s tax, payments and customs authority. HMRC collects the money that pays for the UK’s public services and help families and individuals with targeted financial support\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nHM Revenue and Customs\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nJim Harra\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n63.7 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n14.4%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£45.2 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£40.8 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£1.7 M"
-  },
-  {
-    "objectID": "high-profile-albs.html#network-rail-great-british-railways",
-    "href": "high-profile-albs.html#network-rail-great-british-railways",
-    "title": "High Profile ALBs",
-    "section": "Network Rail & Great British Railways",
-    "text": "Network Rail & Great British Railways\nNetwork Rail Limited’s role is to run a safe, reliable and efficient railway, providing a service for passengers and freight users. NR work closely with Train Operating Companies and Freight Operating Companies. While Network Rail and Great British Railways are currently independent, Network Rail are expected to be eventually absorbed into Great British Railways, as laid out in the The Williams-Shapps Plan for Rail.\n\n\n\n\n\n\n\n\n\n\nNetwork Rail & Great British Railways\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Transport\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAndrew Haines (Chief Executive)\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n41.1 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.8%\n\n\n\n\n\n\n\n\n\n\n\n\nAllocated Government Budget:\n£19.2 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£17.7 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£0"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-3",
-    "href": "high-profile-albs.html#na-3",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nUKRI works in partnership with universities, research organisations, businesses, charities and government to create the best possible environment for research and innovation to flourish. It’s primary role is to deliver grants and loans to support research and innovation. It also runs a range of institutes, national research facilities and national scientific capability. Some of this capability, such as the British Antarctic Survey has an advisory or diplomatic role for HMG.\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Science, Innovation and Technology\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nDame Ottoline Leyser\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nSouth West  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n7.6 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n4.9%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£9.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£9.2 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£8.1 Bn"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-4",
-    "href": "high-profile-albs.html#na-4",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nHigh Speed Two (HS2) Limited is the company responsible for developing and promoting the UK’s new high speed rail network.\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Transport\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nMark Thurston\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nWest Midlands  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n1.8 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n40.1%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£6.9 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£7 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£0"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-5",
-    "href": "high-profile-albs.html#na-5",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nThe company’s purpose and remit is to carry out the functions of a strategic highways company, including the delivery of the requirements of the Road Investment Strategy. It operates as the highway authority, traffic authority and street authority for the strategic road network to give road users (and the communities that sit along side the SRN) the best possible quality of service, whilst supporting broader economic, environmental and safety goals.\n\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Transport\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nNick Harris\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nSouth East  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n6.5 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n0%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£6.4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£4.5 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£30.2 M"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-6",
-    "href": "high-profile-albs.html#na-6",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nHMPPS is responsible for: Managing public sector prisons; Managing the national Probation service; Managing public sector youth custody; Managing electronic monitoring for individuals on court bail, offenders subject to community orders or licence conditions, and, on behalf of the Home Office, subjects on immigration bail.; Liaising with the Welsh government on devolved matters (especially health and education) to ensure the effective delivery of services in Wales; Performance managing private/third sector providers of offender management services; Delivering and managing central system-wide operational support services (such as incident management, prison industries, and improving safety and security practice).\n\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nMinistry of Justice\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nAmy Rees\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n62.2 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n12%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£4.7 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£5.5 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£0"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-7",
-    "href": "high-profile-albs.html#na-7",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nHomes England deliver Government’s housing and regeneration programmes across England, except London where this is devolved to the Mayor. They: deliver land and infrastructure objectives by assembling, marketing and master planning across a land portfolio; provide loan finance to private sector house builders; they commission and grant fund delivery of affordable homes by Registered providers; act as a delivery partner for building remediation; and manage the consumer loand book of the Help to Buy scheme.\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment for Levelling Up, Housing and Communities\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nPeter Denton\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nWest Midlands  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n1.3 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n16.4%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£4.4 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£1.7 Bn"
-  },
-  {
-    "objectID": "high-profile-albs.html#na-8",
-    "href": "high-profile-albs.html#na-8",
-    "title": "High Profile ALBs",
-    "section": "NA",
-    "text": "NA\nUKHSA is the UK’s permanent standing capacity to prepare for, prevent and respond to public health threats. A critical part of the UK’s national security infrastructure, the Agency maintains essential capabilities to protect the nation’s health and support economic growth.\n\n\n\n\n\n\n\n\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\nSponsored By:\nDepartment of Health and Social Care\n\n\n\n\n\n\n\n\n\n\n\n\n\nCEO/Accounts Officer:\nProfessor Dame Jenny Harries\n\n\n\n\n\n\n\n\n\n\n\n\nHeadquarters:\nLondon  - England\n\n\n\n\n\n\n\n\n\n\n\n\nStaff Employed:\n5.8 K (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nStaff based in London:\n18.6%\n\n\n\n\n\n\n\n\n\n\n\n\nGovernment Funding:\n£3.8 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nExpenditure:\n£2.3 Bn\n\n\n\n\n\n\n\n\n\n\n\n\nGrants Issued: \n£-73.8 M"
-  },
-  {
-    "objectID": "ALB-Accountability.html#alb-accountability-headlines",
-    "href": "ALB-Accountability.html#alb-accountability-headlines",
-    "title": "ALB Accountability",
+    "objectID": "Purposes.html#alb-purposes-headlines",
+    "href": "Purposes.html#alb-purposes-headlines",
+    "title": "ALB Purposes",
     "section": "",
-    "text": "In 2022/23 ALB chairs recieved\n£9 M\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe highest remuneration for a chair was\n£314,500 in 2022/23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMost active ALBs were established between\n1975-2000\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe percentage of ALBs with published ARAS was:\n81%"
+    "text": "Advisory bodies\n128\n\n\n\n\n\n\n\n\n\n\n\n\nMajor projects and delivery bodies\n68\n\n\n\n\n\n\n\n\n\n\n\n\nSafety and licensing bodies\n27\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultural institutions\n23\n\n\n\n\n\n\n\n\n\n\n\n\nJustice and prosecutorial enforcers\n20\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic or sectoral regulators\n18\n\n\n\n\n\n\n\n\n\n\n\n\nGrant and subsidy issuing bodies\n13\n\n\n\n\n\n\n\n\n\n\n\n\nResearch, innovation and development bodies\n8"
   },
   {
-    "objectID": "ALB-Accountability.html#alb-chair-remuneration-figures-2023",
-    "href": "ALB-Accountability.html#alb-chair-remuneration-figures-2023",
-    "title": "ALB Accountability",
-    "section": "ALB Chair Remuneration Figures: 2023",
-    "text": "ALB Chair Remuneration Figures: 2023\nEach ALB has an associated board of officials, comprised of the chair, executive members, and non-executive members. These individuals have direct oversight over organisation functions and are held accountable for the performance and strategy of the ALB.\nRemuneration for board members is dependent on several factors such as the functions of the organisation, annual income and skills required to fulfill the position. The chair is the leader of the board, they ensure the board and directors make effective decisions to support ALB function.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn 2023, the highest average salary was for chairs in the Crown NDPBs (£83,353), whereas the lowest average salary was for chairs in the Advisory NDPBs (£9,298)."
+    "objectID": "Purposes.html#purpose-of-albs",
+    "href": "Purposes.html#purpose-of-albs",
+    "title": "ALB Purposes",
+    "section": "Purpose of ALBs",
+    "text": "Purpose of ALBs\nALBs serve a broad range of functions. This section provides an overview of the purpose of ALBs by grouping them into nine categories, which were self-reported by ALBs. An ALB can belong to up to three categories and these are ranked in order of priority. However every ALB is unique, and these categories only provide a broad overview of the work that ALBs do.\n94 bodies had more than one type of purpose in 2022/23. 78% of bodies in the landscape had either advisory or delivery and major programmes as their primary purpose.\n8 ALBs primarily focussed on research and development or other kinds of innovation, whereas 18 performed it as either their secondary or tertiary function instead. There were 17 bodies who had a purpose that did not fit into one of the main categories, however no bodies had a primary purpose from the Other category.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
-    "objectID": "ALB-Accountability.html#variation-in-remuneration-across-albs",
-    "href": "ALB-Accountability.html#variation-in-remuneration-across-albs",
-    "title": "ALB Accountability",
-    "section": "Variation in Remuneration across ALBs",
-    "text": "Variation in Remuneration across ALBs\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe highest salary of all ALB chairs was £314,500, provided by the Network Rail Limited. Chair remuneration varied most for Executive NDPBs and remuneration varied the least for Advisory NDPBs.\nIn some cases, chairs received no remuneration for their position. However, there are instances where chairs from all ALBs in a given classification recieved a form of remuneration. Examples of this are in the Crown NDPBs.\nIn relation to the maximum remuneration for chairs in each ALB classification, the Advisory NDPBs had the lowest maximum value."
+    "objectID": "Purposes.html#alb-purposes-by-classification",
+    "href": "Purposes.html#alb-purposes-by-classification",
+    "title": "ALB Purposes",
+    "section": "ALB purposes by classification",
+    "text": "ALB purposes by classification\n116 Advisory NDPBs had an advisory purpose out of the 117 in the landscape. 82% of Executive Agencies worked on major programmes and delivery, and 39% had more than one purpose.\nExecutive NDPBs performed a wide range of functions. 36% did delivery and major programmes, % provided advice, 21% did safety, licensing and regulation and 21% had a cultural purpose.\nNon-Ministerial Departments also had a wide range of purposes with 55% doing delivery and programmes, 30% are economic and sectoral regulators and 25% work on safety, licensing and regulation\n\nPlotHeatmapData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPurpose of ALBs by Classification. Values are the proportion of ALBs in an administrative classification that perform that purpose. It does not take the priority of the purpose into account\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
-    "objectID": "ALB-Accountability.html#alb-board-effectiveness-reviews-internalexternal",
-    "href": "ALB-Accountability.html#alb-board-effectiveness-reviews-internalexternal",
-    "title": "ALB Accountability",
-    "section": "ALB Board Effectiveness Reviews (Internal/External)",
-    "text": "ALB Board Effectiveness Reviews (Internal/External)\nBoard Effectiveness Reviews (BER) provide a robust review of the board’s effectiveness. These analyse several aspects of the board performance across factors such as: structure, processes and people. The reviews also analyse the boards interactions with primary stakeholders and it is important to ensure feedback on the board is recieved from external sources.\nThe chair is responsible for the intiation of these reviews. Internal reviews must be completed annually by each ALB. However, reviews by external must also be completed but these occur every three years.\nThe external review helps boards self-reflect by eliminating the function board members in the review increasing in objecivity.\nOutcomes of both internal and external reviews must be shared with the parent department for full transparency.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBetween 2022/23, 29% of ALBs had completed an internal board effectiveness review.\n\nPlotData"
+    "objectID": "Purposes.html#alb-purposes-by-sponsoring-department",
+    "href": "Purposes.html#alb-purposes-by-sponsoring-department",
+    "title": "ALB Purposes",
+    "section": "ALB purposes by sponsoring department",
+    "text": "ALB purposes by sponsoring department\nAll departments except HMRC had ALBs that performed advisory functions and all except FSA had bodies that performed major programmes and delivery for them. In particular, the FSA, MOJ and FC ALBs’ focus was majoritively dedicated to advice and for OSSS, HMT and HMRC it was on delivery and programmes.\nALBs under DEFRA and DCMS had the broadest range of purposes spanning 9 and 8 categories respectively. Only 6 departments had ALBs that served a cultural purpose and that was the least common category across department out of all purposes.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProportion of focus of departments’ ALBs. Figures reflect the all purposes of a departments’ ALBs and therefore makes no distinction between the order of priority of the purposes. You can double click a purpose category to see the proportions for just that purpose.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
     "objectID": "Purposes.html#alb-budgets-by-purpose",
@@ -1211,10 +476,171 @@
     "text": "ALB budgets by purpose\nWhen viewed by primary purpose, the majority of all budgeted funding allocated to ALBs (67%) was attributable to grant and subsidy issuing bodies, who received £236.84 billion. This largely reflects the budgets of NHS England and Education and Skills Funding Agency. Most of the remaining budgeted funding allocated to ALBs went to major programmes and delivery organisations, who received £108.41 billion (30.7%), whilst £8.04 billion (2.3%) went to ALBs with other purpose types.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   },
   {
-    "objectID": "about.html#revisions",
-    "href": "about.html#revisions",
-    "title": "About",
-    "section": "Revisions",
-    "text": "Revisions\nSince publication, this document has had 2 changes for revisions within the data, the details of which are below:"
+    "objectID": "Purposes.html#alb-purposes-and-sub-purposes",
+    "href": "Purposes.html#alb-purposes-and-sub-purposes",
+    "title": "ALB Purposes",
+    "section": "ALB purposes and sub-purposes",
+    "text": "ALB purposes and sub-purposes\nThere were 119 bodies who performed advisory functions but served no other purpose. 43% of bodies who primarily worked on delivery and major programmes also had another purpose. Out of the bodies that had a primary purpose of safety, licensing and regulation, 19% of them had a secondary purpose that did not fit into the main purpose categories.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou can explore the full structure of the purpose of ALBs by clicking on the boxes. The first layer that you see is their primary purpose, the second is their secondary and the third their tertiary.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html",
+    "href": "Spending.html",
+    "title": "ALB Spending",
+    "section": "",
+    "text": "In 2022/23 ALBs spent\n£343.55 Bn\n\n\n\n\n\n\n\n\n\n\n\n\n\nRDEL (running costs)\n£270.63 Bn (78.8%)\n\n\n\n\n\n\n\n\n\n\n\n\nAME (demand-led spending)\n£36.27 Bn (10.6%)\n\n\n\n\n\n\n\n\n\n\n\n\nCDEL (investment costs)\n£36.64 Bn (10.7%)\nThis website was built in"
+  },
+  {
+    "objectID": "Spending.html#alb-spending-headlines",
+    "href": "Spending.html#alb-spending-headlines",
+    "title": "ALB Spending",
+    "section": "",
+    "text": "In 2022/23 ALBs spent\n£343.55 Bn\n\n\n\n\n\n\n\n\n\n\n\n\n\nRDEL (running costs)\n£270.63 Bn (78.8%)\n\n\n\n\n\n\n\n\n\n\n\n\nAME (demand-led spending)\n£36.27 Bn (10.6%)\n\n\n\n\n\n\n\n\n\n\n\n\nCDEL (investment costs)\n£36.64 Bn (10.7%)"
+  },
+  {
+    "objectID": "Spending.html#alb-spending-categories",
+    "href": "Spending.html#alb-spending-categories",
+    "title": "ALB Spending",
+    "section": "ALB spending categories",
+    "text": "ALB spending categories\nThe total amount of money that an ALB spends is called Total Managed Expenditure (TME). This can be classified as either Annually Managed Expenditure (AME) or within their Departmental Expenditure Limit (DEL). AME is demand-led expenditure that is typically hard to budget for in advance, such as pension or welfare claims. Conversely, DEL is typically the body’s main budget, and is used for more predictable spending, such as long-running programmes and projects.1\nDEL spend can be further broken down into Resource DEL (RDEL) and Capital DEL (CDEL). RDEL is the cost of running the organisation, which can be on the body’s programmes or the administrative cost for supporting the body. CDEL is expenditure that provides an investment for the body, such as buying property.\nThe RDEL and CDEL figures in this section are the sums that the body actually spent (known as actual spending outturn), rather than the body’s budget for it, As such, the spending for ALBs reported below may not directly match up with the values reported in ALB Budgets, which captures delegated budgets for 2022/23."
+  },
+  {
+    "objectID": "Spending.html#how-much-do-albs-spend",
+    "href": "Spending.html#how-much-do-albs-spend",
+    "title": "ALB Spending",
+    "section": "How much do ALBs spend?",
+    "text": "How much do ALBs spend?\nCollectively, ALBs spent £343.5 billion in 2022/23. The largest type of spending by ALBs was RDEL Programme spending, which covers ALB running costs, at £263.7billion, representing 76.8% of all ALB expenditure. However, ALB running costs can also include money that is disbursed by the ALB to fund the operations of other organisations as grants-in-aid. In fact grants-in-aid spending represented 68.7% of all ALB expenditure, reflecting the roles of NHS England and Education and Skills Funding Agency, who distribute funding to hospitals and schools. respectively. For additional context, the total expenditure for the UK Government in 2022/23 was £1,133.6 billion, meaning ALBs represent around a third of all public expenditure.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#spending-by-classification",
+    "href": "Spending.html#spending-by-classification",
+    "title": "ALB Spending",
+    "section": "Spending by classification",
+    "text": "Spending by classification\nExecutive NDPBs spent £212.31 billion in total, which was 61.8% of all ALB spend. They also spent the most on CDEL (investment spending) at £33.89 billion. On the other hand, although Advisory, Crown and Tribunal NDPBs make up 42.3% of bodies, they together spent only £287.26 million in 2022/23.\nNMDs contributed 93.57% to total AME (demand-led spending). Additionally, 79.54% of EAs’ TME was spent as grants, which was the highest proportion out of all classifications.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#rdel-spending",
+    "href": "Spending.html#rdel-spending",
+    "title": "ALB Spending",
+    "section": "RDEL spending",
+    "text": "RDEL spending\nIn 2022/23 ALBs spent around £270.63 billion on RDEL. RDEL spending represents the day-to-day running costs of an ALB, and typically includes the costs related to an ALB’s staff and their back-office functions which such as HR, Communications, and Finance, which each ALB needs to operate. RDEL is also often used to cover the programme spending of ALBs, which can go towards front-line operations performed by the ALB. For example, while NHS England (£157.63 billion) and Education and Skills Funding Agency (£67.3 billion) collectively spent around 83.1% of all RDEL spending, the vast majority of their spending was RDEL Programme spending, which itself was mostly issued as Grants-in-Aid to towards other organisations to carry out frontline services.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#cdel-spending",
+    "href": "Spending.html#cdel-spending",
+    "title": "ALB Spending",
+    "section": "CDEL spending",
+    "text": "CDEL spending\nIn 2022/23 ALBs spent around £36.64 billion on CDEL. Ten bodies spent 92.53% of total CDEL spending for ALBs, representing £33.91 billion in 2022/23. These ALBs are organisations which are primarily focussed on investment in infrastructure. For example Network Rail (£5.94 billion) and High Speed 2 (£5.94 billion) are ALBs which develop and maintain public transport infrastructure, and collectively represented 35.1% of all ALBs’ CDEL spending.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#ame-spending",
+    "href": "Spending.html#ame-spending",
+    "title": "ALB Spending",
+    "section": "AME spending",
+    "text": "AME spending\nIn 2022/23 ALBs spent around £36.27 billion on Annually Managed Expenditure. Most of this was attributed to HM Revenue and Customs, who spent £33.93 billion as AME, which was 93.55% of all ALBs’ AME spend. HMRC uses AME spending to cover payments for Child Benefits, tax credits and other benefits, reliefs and allowances, which are all susceptible to inflationary pressures. Using AME spending allows HMRC to account for volatile changes in inflation, which may reduce the value of these payments if they were spent under DEL, which is typically allocated years in advance.\nMany ALBs reported a negative value for their AME spending, which is often attributable to movements in provisions. Provisions are liabilities of uncertain timing or amount that need to be accounted for in ALBs’ financial statements.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#grants_spending",
+    "href": "Spending.html#grants_spending",
+    "title": "ALB Spending",
+    "section": "Grants spending",
+    "text": "Grants spending\nGrants spending captures the money spent by ALBs when issuing money as a Grants-in-Aid to other entities. A Grant-in-Aid is money given by one organisation to another organisation, which is used to support the activities and objectives of the receiving organisation. For example, Education and Skills Funding Agency issues grants to schools and academies as part of the National Funding Formula. In total, ALBs issued more than £236 Bn in grants during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#largest-grant-distributors",
+    "href": "Spending.html#largest-grant-distributors",
+    "title": "ALB Spending",
+    "section": "Largest grant distributors",
+    "text": "Largest grant distributors\nThe total amount of Grants-in-Aid distributed by ALBs was primarily driven by 3 ALBs. These were: NHS England (£155.93 billion) Education and Skills Funding Agency (£67.23 billion), and UK Research and Innovation (£8.07 billion). Collectively these 3 ALBs spent £231.23 billion as grants issued, which was around 98% of all grants-in-aid issued by ALBs.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#comparisons-with-2020",
+    "href": "Spending.html#comparisons-with-2020",
+    "title": "ALB Spending",
+    "section": "Comparisons with 2020",
+    "text": "Comparisons with 2020\nIn the 2019/20 Public Bodies Directory, the Total Managed Expenditure (TME) for ALBs was £292.22 billion. In 2022/23 this had risen to £343.55 billion, representing an increase of around 17.6% (£51.32 billion). Most of this increase in spend is seen in resource (day to day) spending of ALBs. Much like ALB budgets, these increases are primarily attributable to inflation during this time period, and the formal classification of Network Rail as an ALB for 2022/23.\nWhen making comparisons in ALBs’ spending with 2019/20, its important to note that the way AME was measured for 2022/23 differs from 2019/20. In the 2019/20 Public Bodies Directory, ALBs only provided their Resource AME (RAME), whereas for 2022/23 the Cabinet Office collected both RAME and Capitalised AME (CAME) as a single AME value. While this change was made to provide a complete picture of AME spending, CAME spending is relatively uncommon compared to RAME. Analysis by the Institute For Government covering 2021/22 suggests that most Government departments do not use CAME spending. As such, this difference is unlikely to affect the majority of ALBs.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Spending.html#footnotes",
+    "href": "Spending.html#footnotes",
+    "title": "ALB Spending",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://www.gov.uk/government/publications/consolidated-budgeting-guidance-2023-to-2024↩︎"
+  },
+  {
+    "objectID": "Staff.html",
+    "href": "Staff.html",
+    "title": "ALB Staff",
+    "section": "",
+    "text": "In 2022/23 ALBs employed\n390,845 Staff (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nThe ALB workforce has increased from\n318,714 in 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHM Revenue and Customs Employed \n63,738 FTE\nand are the largest ALB employer.\n\n\n\n\n\n\n\n\n\n\n\n\nReclassification of Network Rail in 2022 added\n41,147 FTE\nto this total.\nThis website was built in"
+  },
+  {
+    "objectID": "Staff.html#alb-staffing-headlines",
+    "href": "Staff.html#alb-staffing-headlines",
+    "title": "ALB Staff",
+    "section": "",
+    "text": "In 2022/23 ALBs employed\n390,845 Staff (FTE)\n\n\n\n\n\n\n\n\n\n\n\n\nThe ALB workforce has increased from\n318,714 in 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHM Revenue and Customs Employed \n63,738 FTE\nand are the largest ALB employer.\n\n\n\n\n\n\n\n\n\n\n\n\nReclassification of Network Rail in 2022 added\n41,147 FTE\nto this total."
+  },
+  {
+    "objectID": "Staff.html#alb-employee-types",
+    "href": "Staff.html#alb-employee-types",
+    "title": "ALB Staff",
+    "section": "ALB employee types",
+    "text": "ALB employee types\nIn 2022/23, there were 390,845 staff (FTE) who were employed by Arm’s Length Bodies.\nCivil Servants: Of this total, 62% of staff employed in these organisations were Civil Servants. Within the ALB landscape, Civil Servants work primarily within Non-Ministerial Departments and Executive Agencies.\nPublic Servants: Public Servants made up 38% of the workforce, and are primarily employed to work in Executive Non-Departmental Public Bodies.\nMixed Workforces: A tiny proportion of around 0.08% of the workforce were employed in Advisory and Tribunal NDPBs, where staff may be either Civil or Public Servants. Staff employed in these organisations are often employed in a part-time basis, and may spend part of their time working for other ALBs or their sponsoring departments.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#departments-sponsoring-albs-with-the-largest-workforces",
+    "href": "Staff.html#departments-sponsoring-albs-with-the-largest-workforces",
+    "title": "ALB Staff",
+    "section": "Departments sponsoring ALBs with the largest workforces",
+    "text": "Departments sponsoring ALBs with the largest workforces\nWhile ALBs employed around 390,845 staff (FTE), the vast majority of these staff (268,754) were employed by ALBs sponsored by just 5 ministerial departments, representing 68.8%. The departments sponsoring the largest ALB workforces were: Minsitry of Justice (82,493), HMRC (67,519), and Department for Transport (66,912). As a Non-ministerial department, HMRC operates as its own sponsor, whilst also sponsoring the Valuation Office Agency.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#albs-by-geography",
+    "href": "Staff.html#albs-by-geography",
+    "title": "ALB Staff",
+    "section": "ALBs by geography",
+    "text": "ALBs by geography"
+  },
+  {
+    "objectID": "Staff.html#scope-of-influence",
+    "href": "Staff.html#scope-of-influence",
+    "title": "ALB Staff",
+    "section": "Scope of Influence",
+    "text": "Scope of Influence\nThe vast majority of ALBs sponsored by UK Government departments have operational scope within England (97%). Most ALBs also operate within Wales (76%), whereas less than half operate within Scotland (48%) and Northern Ireland (45%).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Office for National Statistics licensed under the Open Government Licence v.3.0 Contains OS data © Crown copyright and database right 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#headquarters-locations",
+    "href": "Staff.html#headquarters-locations",
+    "title": "ALB Staff",
+    "section": "Headquarters locations",
+    "text": "Headquarters locations\nThe location of headquarters of ALBs sponsored by the UK Government are spread across the UK. The vast majority of ALBs have their headquarters in London (126), whilst the South West (24) and West Midlands (20) had the second and third most ALB headquarters respectively. The North East (2) and Northern Ireland (3) were the regions with the least amount of ALB headquarters. 74 ALBs (around a quarter of all ALBs) reported that they have no designated headquarters.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Office for National Statistics licensed under the Open Government Licence v.3.0 Contains OS data © Crown copyright and database right 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#london-based-staff",
+    "href": "Staff.html#london-based-staff",
+    "title": "ALB Staff",
+    "section": "London-based staff",
+    "text": "London-based staff\nWhile the majority of ALBs have their headquarters based in London, the majority of the ALB workforce is based outside of London. Within the total ALB workforce of 390,845, the majority of staff (335,636) were employed outside of London, representing 85.9%. This trend reflects the Government’s wider Places For Growth programme, which aims to create more opportuntities for the Civil Service to deliver in areas outside of London.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#largest-alb-employers-in-london",
+    "href": "Staff.html#largest-alb-employers-in-london",
+    "title": "ALB Staff",
+    "section": "Largest ALB employers in London",
+    "text": "Largest ALB employers in London\nOf the 55,209.25 staff employed in London by ALBs, 29,554.3 where employed by 5 ALBs, representing 53.6% of all London-based ALB staff. The ALBs with the largest London-based workforces were HM Revenue and Customs (9,165), HM Prison and Probation Service (7,483), and Network Rail (6,918).\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#london-based-alb-staff-proportions",
+    "href": "Staff.html#london-based-alb-staff-proportions",
+    "title": "ALB Staff",
+    "section": "London-based ALB staff proportions",
+    "text": "London-based ALB staff proportions\nWhile the ALBs above employed the most London-based staff, the majority of these ALBs still employ most of their staff outside of London. For example, whilst HMRC employed around 9,165 staff in London, they employed around 63,738 outside of London, meaning only 14% of HMRC’s entire staff were based within London during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
+  },
+  {
+    "objectID": "Staff.html#comparisons-with-2020",
+    "href": "Staff.html#comparisons-with-2020",
+    "title": "ALB Staff",
+    "section": "Comparisons with 2020",
+    "text": "Comparisons with 2020\nWhen compared with the number of staff employed by ALBs in the Public Bodies Directory from 2020 (318,714 FTE), the number of staff employed by ALBs has increased by more than 72,000. Most of this is attributable to changes in the NDPB workforce, which increased by nearly 46,000 staff during this time period. Notably, this increase largely reflects the addition of Network Rail as an Arm’s Length Body which had around 41,000 staff in their workforce during 2022/23.\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Download Data"
   }
 ]
