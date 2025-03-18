@@ -1,57 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/index.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Staff.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Budgets.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Spending.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/high-profile-albs.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Purposes.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Departments.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/about.html</loc>
-  <lastmod>2025-03-03T14:32:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/about.html</loc>
+    <lastmod>2025-03-18T12:39:02.006Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Budgets.html</loc>
+    <lastmod>2024-12-24T13:23:23.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Departments.html</loc>
+    <lastmod>2024-12-24T13:23:23.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/high-profile-albs.html</loc>
+    <lastmod>2024-12-24T13:23:23.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/index.html</loc>
+    <lastmod>2024-12-24T13:23:23.976Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Purposes.html</loc>
+    <lastmod>2024-12-24T13:23:23.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Spending.html</loc>
+    <lastmod>2024-12-24T13:23:23.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://co-public-bodies.github.io/ALB_Landscape_Analysis_2022_23/Staff.html</loc>
+    <lastmod>2025-02-02T13:52:26.060Z</lastmod>
+  </url>
 </urlset>
